@@ -12,7 +12,7 @@ To achieve the goals, use these blocks.
 - [ ] Set up Github and git, on your laptop
 - [ ] Create a private copy of this repository
 - [ ] Set up Mu editor, for CircuitPython ([level 3](../level-3))
-- [ ] Set up a Java or Python IDE
+- [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Get the hardware kit, return after use
 - [ ] Find the Microbit you already got
