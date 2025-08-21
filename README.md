@@ -17,7 +17,7 @@ To keep you motivated, this project template is split into levels.
 Each level results in a working prototype, built from building blocks.
 
 ## Goals
-Goals describe what to achieve in order to build a level's result.
+Goals describe what to achieve in order to get to a levels result.
 
 ## Building blocks
 Each building block shows how to solve a specific, small issue.
