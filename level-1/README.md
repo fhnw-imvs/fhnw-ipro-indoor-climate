@@ -23,5 +23,6 @@ To achieve the goals, use these blocks.
 ## Side quests
 To learn more, consider these side quests.
 
-- [ ] Add another type of sensor, e.g. light
-- [ ] Add 
+- [ ] Add other available sensors, e.g. light
+- [ ] Replace your laptop with a Raspberry Pi
+- [ ] ...
