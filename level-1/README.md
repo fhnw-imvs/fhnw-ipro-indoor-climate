@@ -14,10 +14,14 @@ To achieve the goals, use these blocks.
 - [ ] Getting started with the Micro:bit
 - [ ] Reading ASCII bytes from a serial port
 - [ ] Storing data in CSV format into a file
+- [ ] Opening a CSV file as a spreadsheet
+- [ ] Importing a CSV file into a notebook
 - [ ] Storing data with SQL into a database
 - [ ] Reading data with SQL from a database
-- [ ] Reading a CSV file with Excel
-- [ ] Reading a CSV file with Jupyter
+- [ ] Running a database as a local service
 
 ## Side quests
-To learn more, consider these quests.
+To learn more, consider these side quests.
+
+- [ ] Add another type of sensor, e.g. light
+- [ ] Add 
