@@ -17,7 +17,7 @@ To keep you motivated, this project template is split into levels.
 Each level results in a working prototype, built from building blocks.
 
 ## Goals
-Goals describe what to achieve, in order to complete a level / result.
+Goals describe what to achieve, in order to complete a level/result.
 
 ## Building blocks
 Each building block shows how to solve a specific, small issue.
@@ -29,7 +29,7 @@ Each level has side quests, things to try, directions to explore.
 You choose as you like, we provide Python and Java examples.
 
 ## "AI" tools
-No "AI" needed, you're welcome to learn / think for yourself :)
+No "AI" needed, you're welcome to learn/think for yourself :)
 
 ## Support
 Contact thomas.amberg@fhnw.ch to get an MS Teams invite.
