@@ -1,5 +1,4 @@
 # Level 3: Monitoring remotely
-# Level 0: Getting started
 ## Goals
 To finish the level, achieve these goals.
 
