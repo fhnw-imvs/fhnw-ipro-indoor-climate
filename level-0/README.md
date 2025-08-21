@@ -2,9 +2,9 @@
 ## Goals
 To finish the level, achieve these goals.
 
-- [ ] Be ready to work on this project
 - [ ] Have a rough plan when to do what
 - [ ] Check in with your support team
+- [ ] Be ready to work on this project
 
 ## Building blocks
 To achieve the goals, use these blocks.
