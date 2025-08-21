@@ -1,2 +1,2 @@
-# Lesson 0: Getting started
+# Level 0: Getting started
 ...
