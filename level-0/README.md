@@ -13,7 +13,7 @@ To achieve the goals, use these blocks.
 - [ ] Create a private copy of this repository
 - [ ] Commit and push to your copy of the repo
 - [ ] Set up a Java or Python IDE, e.g. VS Code
-- [ ] Set the up the Mu editor, for CircuitPython
+- [ ] Set up the Mu editor, for (Circuit)Python
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
