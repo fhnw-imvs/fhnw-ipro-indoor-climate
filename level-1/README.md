@@ -23,6 +23,6 @@ To achieve the goals, use these blocks.
 ## Side quests
 To learn more, consider these side quests.
 
-- [ ] Add other available sensors, e.g. light
+- [ ] Add other [available sensors](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main), e.g. [light](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_Light_Sensor.md)
+- [ ] Add an LED to indicate a room climate alert
 - [ ] Replace your laptop with a Raspberry Pi
-- [ ] ...
