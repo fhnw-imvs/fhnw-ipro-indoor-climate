@@ -16,6 +16,7 @@ To achieve the goals, use these blocks.
 - [ ] Get used to the terminal or cmd
 - [ ] Get the hardware kit
 - [ ] Find your Microbit
+- [ ] Take notes, keep a project log
 
 ## Side quests
 To learn more, consider these side quests.
