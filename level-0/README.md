@@ -11,7 +11,7 @@ To achieve the goals, use these blocks.
 
 - [ ] Set up Github and git, on your laptop
 - [ ] Create a private copy of this repository
-- [ ] Set up Mu editor, for [level 2](../level-2)
+- [ ] Set up Mu editor, for CircuitPython / [level 3](../level-3)
 - [ ] Set up a Java IDE, or use Python
 - [ ] Get used to the terminal or cmd
 - [ ] Get the hardware kit
