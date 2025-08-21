@@ -28,7 +28,7 @@ Each level has side quests, things to try, directions to explore.
 ## Language
 You choose as you like, we provide Python and Java examples.
 
-## AI tools
+## "AI" tools
 No "AI" needed, you're welcome to learn / think for yourself :)
 
 ## Support
