@@ -17,7 +17,7 @@ To keep you motivated, this project template is split into levels.
 Each level results in a working prototype, built from building blocks.
 
 ## Building blocks
-Each building block shows you how to solve a specific small issue.
+Each building block shows how to solve a specific, small issue.
 
 ## Side quests
 Each level has side quests, things to try, directions to explore.
