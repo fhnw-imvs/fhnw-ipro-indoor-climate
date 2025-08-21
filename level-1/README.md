@@ -11,5 +11,13 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
+- [ ] Getting started with the Micro:bit
+- [ ] Reading ASCII bytes from a serial port
+- [ ] Storing data in CSV format into a file
+- [ ] Storing data with SQL into a database
+- [ ] Reading data with SQL from a database
+- [ ] Reading a CSV file with Excel
+- [ ] Reading a CSV file with Jupyter
+
 ## Side quests
 To learn more, consider these quests.
