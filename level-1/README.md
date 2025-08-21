@@ -2,7 +2,7 @@
 ## Goals
 To finish the level, achieve these goals.
 
-- [ ] Read sensor data, on the Micro:bit
+- [ ] Read sensor data, on the Microbit
 - [ ] Read data via USB, on your laptop
 - [ ] Store sensor data, on your laptop
 - [ ] Read stored data, on your laptop
