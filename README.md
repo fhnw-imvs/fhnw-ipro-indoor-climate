@@ -1,7 +1,7 @@
 # FHNW (ipro) Indoor Climate
-FHNW (ipro) is ...
+FHNW (ipro) is a set of individual software project topics.
 
-Indoor climate is ...
+Indoor climate is a project topic involving CO2 sensor devices.
 
 ## Overview
 To keep you motivated, this project template is split into levels.
