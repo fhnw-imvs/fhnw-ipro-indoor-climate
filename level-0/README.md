@@ -14,8 +14,8 @@ To achieve the goals, use these blocks.
 - [ ] Set up Mu editor, for CircuitPython / [level 3](../level-3)
 - [ ] Set up a Java IDE, or use Python
 - [ ] Get used to the terminal or cmd
-- [ ] Get the hardware kit
-- [ ] Find your Microbit
+- [ ] Get the hardware kit (to use for free)
+- [ ] Find the Microbit you already got
 - [ ] Take notes, keep a project log
 
 ## Side quests
