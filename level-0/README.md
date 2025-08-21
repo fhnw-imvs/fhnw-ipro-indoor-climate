@@ -12,8 +12,8 @@ To achieve the goals, use these blocks.
 - [ ] Set up Github and git, on your laptop
 - [ ] Create a private copy of this repository
 - [ ] Commit and push to your copy of the repo
-- [ ] Set the up Mu editor, for CircuitPython
 - [ ] Set up a Java or Python IDE, e.g. VS Code
+- [ ] Set the up the Mu editor, for CircuitPython
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
