@@ -12,6 +12,7 @@ To finish the level, achieve these goals.
 To achieve the goals, use these blocks.
 
 - [ ] Using the Microbit with [MakeCode](https://makecode.microbit.org)
+- [ ] Adding a library to your Microbit code
 - [ ] Reading ASCII bytes from a serial port
 - [ ] Storing data in CSV format into a file
 - [ ] Opening a CSV file as a spreadsheet
