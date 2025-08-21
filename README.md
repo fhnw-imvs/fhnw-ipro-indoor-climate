@@ -8,10 +8,10 @@ In this project you will use CO2 sensors to measure indoor climate.
 To keep you motivated, this project template is split into levels.
 
 - [x] Level 0: [Getting started](level-0/README.md)
-- [ ] Level 1: Logging sensor data
-- [ ] Level 2: Analyzing your data
-- [ ] Level 3: Monitoring remotely
-- [ ] Level 4: Scaling up and out
+- [ ] Level 1: [Logging sensor data](level-1/README.md)
+- [ ] Level 2: [Analyzing your data](level-2/README.md)
+- [ ] Level 3: [Monitoring remotely](level-3/README.md)
+- [ ] Level 4: [Scaling up and out](level-4/README.md)
 
 ## Results
 Each level results in a working prototype, built from building blocks.
