@@ -2,11 +2,11 @@
 ## Goals
 To finish the level, achieve these goals.
 
-- [ ] Read sensor data, on the Microbit
-- [ ] Read data via USB, on your laptop
+- [ ] Read a CO2 sensor, on the Microbit
+- [ ] Send data via USB, to your laptop
 - [ ] Store sensor data, on your laptop
 - [ ] Read stored data, on your laptop
-- [ ] Show historical sensor data
+- [ ] Show historical data as a chart
 
 ## Building blocks
 To achieve the goals, use these blocks.
