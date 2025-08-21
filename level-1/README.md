@@ -25,5 +25,5 @@ To achieve the goals, use these blocks.
 To learn more, consider these side quests.
 
 - [ ] Show a "bad room climate" alert on the Microbit
-- [ ] Add other [available sensors](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main), e.g. light or PIR.
+- [ ] Add other [available sensors](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main), e.g. light or PIR
 - [ ] Replace your laptop with a Raspberry Pi
