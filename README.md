@@ -25,5 +25,8 @@ Each level has side quests, things to try, directions to explore.
 ## Language
 You choose as you like, we provide Python and Java examples.
 
+## AI tools
+Not needed here, you're welcome to think for yourself :)
+
 ## Support
 Contact thomas.amberg@fhnw.ch to get an MS Teams invite.
