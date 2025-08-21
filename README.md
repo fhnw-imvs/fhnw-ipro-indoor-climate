@@ -20,7 +20,7 @@ Each level results in a working prototype, built from building blocks.
 Each building block shows you how to solve a specific small issue.
 
 ## Side quests
-Each level has side quest, things to try, directions to explore.
+Each level has side quests, things to try, directions to explore.
 
 ## Language
 You chose the language, we provide Python and Java examples.
