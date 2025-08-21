@@ -17,8 +17,8 @@ To achieve the goals, use these blocks.
 - [ ] Store data in CSV format into a file
 - [ ] Open a CSV file as a spreadsheet
 - [ ] Import a CSV file into a notebook
-- [ ] Store data with SQL into a database
-- [ ] Read data with SQL from a database
+- [ ] Store data into a database with SQL
+- [ ] Read data from a database with SQL
 - [ ] Run a database as a local service
 
 ## Side quests
