@@ -11,6 +11,7 @@ To achieve the goals, use these blocks.
 
 - [ ] Set up Github and git, on your laptop
 - [ ] Create a private copy of this repository
+    > Note: do not fork, use this link instead
 - [ ] Commit and push to your copy of the repo
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] Set the up the Mu editor, for CircuitPython
