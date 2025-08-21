@@ -1,5 +1,4 @@
 # Level 2: Analyzing your data
-# Level 0: Getting started
 ## Goals
 To finish the level, achieve these goals.
 
