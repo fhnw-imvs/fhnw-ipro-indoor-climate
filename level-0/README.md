@@ -14,8 +14,8 @@ To achieve the goals, use these blocks.
 - [ ] Set the up Mu editor, for CircuitPython
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] Use the terminal or cmd, to work with files
-- [ ] Get the hardware kit, return after use
 - [ ] Find the Microbit device you already got
+- [ ] Get the hardware kit, return after use
 - [ ] Take notes, keep a project log
 - [x] Check an item off this list
 
