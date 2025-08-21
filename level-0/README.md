@@ -18,7 +18,7 @@ To achieve the goals, use these blocks.
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
 - [ ] Take notes, keep a project log
-- [x] Check an item off this list
+- [x] Check done items off the list
 
 ## Side quests
 To learn more, consider these side quests.
