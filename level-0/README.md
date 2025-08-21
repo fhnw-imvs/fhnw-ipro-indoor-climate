@@ -15,7 +15,7 @@ To achieve the goals, use these blocks.
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Find the Microbit device you already got
-- [ ] Get a hardware kit, return after use
+- [ ] Get an ipro hardware kit, return after use
 - [ ] Take notes, keep a project log
 - [x] Check an item off this list
 
