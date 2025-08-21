@@ -23,7 +23,7 @@ Each building block shows you how to solve a specific small issue.
 Each level has side quests, things to try, directions to explore.
 
 ## Language
-You chose the language, we provide Python and Java examples.
+You chose what you like, we provide Python and Java examples.
 
 ## Support
 Contact thomas.amberg@fhnw.ch to get an MS Teams invite.
