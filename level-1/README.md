@@ -12,14 +12,14 @@ To finish the level, achieve these goals.
 To achieve the goals, use these blocks.
 
 - [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
-- [ ] Add a library to your Microbit code
+- [ ] [Add a library to your Microbit code](#add-a-library-to-your-microbit-code)
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
-- [ ] Store data in CSV format into a file
-- [ ] Open a CSV file as a spreadsheet
-- [ ] Import a CSV file into a notebook
-- [ ] Store data into a database with SQL
-- [ ] Read data from a database with SQL
-- [ ] Run a database as a local service
+- [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
+- [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
+- [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
+- [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
+- [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
+- [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
 
 ### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
