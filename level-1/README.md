@@ -46,7 +46,7 @@ print(bytes)
 
 #### Troubleshooting
 <details>
-<summary>Click to open/close.</summary>
+<summary>Show more/less.</summary>
 
 - Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial#60600073)
 
