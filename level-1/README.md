@@ -45,8 +45,6 @@ Or with Java:
 ```
 <details>
 <summary>Troubleshooting</summary>
-
-Troubleshooting
 ...
 </details>
 
