@@ -38,7 +38,7 @@ $ screen /dev/tty.u<TAB> 115200
 #### With _PuTTY_ (on Windows)
 ...
 
-#### Or with Python
+#### With Python
 ```Python
 port = serial.Serial('COM3') # or '/dev/tty.u...'
 port.baudrate = 115200
@@ -46,7 +46,7 @@ bytes = port.readline()
 ```
 See [serial_read.py](Python/serial_read/serial_read.py)
 
-#### Or with Java
+#### With Java
 ```Java
 ...
 ```
