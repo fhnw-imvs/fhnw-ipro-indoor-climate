@@ -43,6 +43,12 @@ Or with Java:
 ```Java
 ...
 ```
+<details>
+<summary>Troubleshooting</summary>
+
+Troubleshooting
+...
+</details>
 
 ## Side quests
 To learn more, consider these side quests.
