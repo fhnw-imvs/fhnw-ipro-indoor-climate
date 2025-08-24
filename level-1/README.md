@@ -24,6 +24,9 @@ To achieve the goals, use these blocks.
 ### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
+### Add a library to your Microbit code
+...
+
 ### Read ASCII bytes from a serial port
 On your (Mac or Linux) computer.
 
@@ -54,6 +57,21 @@ print(bytes)
 - Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial)
 
 </details>
+
+### Store data in CSV format into a file
+...
+
+### Open a CSV file as a spreadsheet
+...
+
+### Read data from a database with SQL
+...
+
+### Read data from a database with SQL
+...
+
+### Run a database as a local service
+...
 
 ## Side quests
 To learn more, consider these side quests.
