@@ -1,4 +1,8 @@
 # Level 1: Logging sensor data
+- [Goals](#goals)
+- [Building blocks](#building-blocks)
+- [Side quests](#side-quests)
+  
 ## Goals
 To finish the level, achieve these goals.
 
