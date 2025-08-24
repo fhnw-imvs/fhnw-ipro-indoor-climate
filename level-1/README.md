@@ -21,6 +21,29 @@ To achieve the goals, use these blocks.
 - [ ] Read data from a database with SQL
 - [ ] Run a database as a local service
 
+### Read ASCII bytes from a serial port
+On your (Mac or Linux) computer.
+
+With _screen_, in a terminal:
+```console
+$ screen /dev/tty.u<TAB> 115200
+```
+
+Or with Python:
+```Python
+import serial
+
+port = serial.Serial('COM3') # or /dev/tty.u...
+port.baudrate = 115200
+bytes = port.read()
+print(bytes)
+```
+
+Or with Java:
+```Java
+...
+```
+
 ## Side quests
 To learn more, consider these side quests.
 
