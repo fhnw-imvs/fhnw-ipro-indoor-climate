@@ -24,12 +24,12 @@ To achieve the goals, use these blocks.
 ### Read ASCII bytes from a serial port
 On your (Mac or Linux) computer.
 
-With _screen_, in a terminal:
+#### With _screen_, in a terminal:
 ```console
 $ screen /dev/tty.u<TAB> 115200
 ```
 
-Or with Python:
+#### Or with Python:
 ```Python
 import serial
 
@@ -39,13 +39,13 @@ bytes = port.read()
 print(bytes)
 ```
 
-Or with Java:
+#### Or with Java:
 ```Java
 ...
 ```
 
 <details>
-<summary>Troubleshooting</summary>
+<summary>#### Troubleshooting</summary>
 
 - Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial#60600073)
 
