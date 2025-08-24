@@ -45,7 +45,7 @@ Or with Java:
 ```
 <details>
 <summary>Troubleshooting</summary>
-...
+- Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial#60600073)
 </details>
 
 ## Side quests
