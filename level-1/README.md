@@ -11,7 +11,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
-- [ ] [Use the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org)
+- [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
 - [ ] Add a library to your Microbit code
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
 - [ ] Store data in CSV format into a file
@@ -20,6 +20,9 @@ To achieve the goals, use these blocks.
 - [ ] Store data into a database with SQL
 - [ ] Read data from a database with SQL
 - [ ] Run a database as a local service
+
+### Use the Microbit with MakeCode
+[Use the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org)
 
 ### Read ASCII bytes from a serial port
 On your (Mac or Linux) computer.
