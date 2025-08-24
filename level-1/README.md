@@ -22,7 +22,7 @@ To achieve the goals, use these blocks.
 - [ ] Run a database as a local service
 
 ### Use the Microbit with MakeCode
-[Use the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org)
+Here's an [intro to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
 ### Read ASCII bytes from a serial port
 On your (Mac or Linux) computer.
