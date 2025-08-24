@@ -13,7 +13,7 @@ To achieve the goals, use these blocks.
 
 - [ ] [Use the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org)
 - [ ] Add a library to your Microbit code
-- [ ] Read ASCII bytes from a serial port
+- [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
 - [ ] Store data in CSV format into a file
 - [ ] Open a CSV file as a spreadsheet
 - [ ] Import a CSV file into a notebook
