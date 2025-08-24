@@ -11,25 +11,31 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
-- [ ] [Use the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org)
-- [ ] Add a library to your Microbit code
+- [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
+- [ ] [Add a library to your Microbit code](#add-a-library-to-your-microbit-code)
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
-- [ ] Store data in CSV format into a file
-- [ ] Open a CSV file as a spreadsheet
-- [ ] Import a CSV file into a notebook
-- [ ] Store data into a database with SQL
-- [ ] Read data from a database with SQL
-- [ ] Run a database as a local service
+- [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
+- [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
+- [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
+- [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
+- [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
+- [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
+
+### Use the Microbit with MakeCode
+Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
+
+### Add a library to your Microbit code
+...
 
 ### Read ASCII bytes from a serial port
 On your (Mac or Linux) computer.
 
-With _screen_, in a terminal:
+#### With _screen_, in a terminal
 ```console
 $ screen /dev/tty.u<TAB> 115200
 ```
 
-Or with Python:
+#### Or with Python
 ```Python
 import serial
 
@@ -39,17 +45,33 @@ bytes = port.read()
 print(bytes)
 ```
 
-Or with Java:
+#### Or with Java
 ```Java
 ...
 ```
 
+#### Troubleshooting
 <details>
-<summary>Troubleshooting</summary>
+<summary>Show/hide details.</summary>
 
-- Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial#60600073)
+- Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial)
 
 </details>
+
+### Store data in CSV format into a file
+...
+
+### Open a CSV file as a spreadsheet
+...
+
+### Read data from a database with SQL
+...
+
+### Read data from a database with SQL
+...
+
+### Run a database as a local service
+...
 
 ## Side quests
 To learn more, consider these side quests.
