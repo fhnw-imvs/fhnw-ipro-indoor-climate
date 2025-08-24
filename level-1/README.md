@@ -48,7 +48,7 @@ print(bytes)
 <details>
 <summary>Show/hide details.</summary>
 
-- Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial#60600073)
+- Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial)
 
 </details>
 
