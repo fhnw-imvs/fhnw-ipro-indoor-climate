@@ -36,12 +36,13 @@ $ screen /dev/tty.u<TAB> 115200
 ```
 
 #### Or with Python
+See [serial_read.py](Python/serial_read/serial_read.py)
 ```Python
 import serial
 
 port = serial.Serial('COM3') # or /dev/tty.u...
 port.baudrate = 115200
-bytes = port.read()
+bytes = port.readline()
 print(bytes)
 ```
 
