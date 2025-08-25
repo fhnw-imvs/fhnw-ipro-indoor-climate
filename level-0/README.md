@@ -25,13 +25,13 @@ To achieve the goals, use these blocks.
 ### Keep a project log to take notes
 Take notes for yourself.
 
-- Explore alternatives in parallel.
-- Find again what you already tried.
+- Explore alternatives in parallel
+- Find again what you already tried
 - Include your command line history
     ```console
     $ history
     ```
-- Consider using `>` to add notes.
+- Consider using `>` to add notes
     > Like this, right here.
 - Or use a daily .TXT / .MD file, e.g.
     ```
