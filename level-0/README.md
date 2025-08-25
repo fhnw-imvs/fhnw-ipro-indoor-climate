@@ -19,7 +19,11 @@ To achieve the goals, use these blocks.
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
 - [ ] Take notes, keep a project log
+- [ ] [Follow some basic principles](#follow-some-basic-principles)
 - [x] Check done items off the list
+
+### Follow some basic principles
+...
 
 ## Side quests
 To learn more, consider these side quests.
