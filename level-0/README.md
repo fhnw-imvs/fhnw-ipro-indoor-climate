@@ -14,6 +14,7 @@ To achieve the goals, use these blocks.
 - [ ] Commit and push to your copy of the repo
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Set up a Java or Python IDE, e.g. VS Code
+- [ ] Use a venv virtual environment with Python
 - [ ] Set up the Mu editor, for CircuitPython
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
