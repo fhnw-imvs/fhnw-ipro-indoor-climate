@@ -60,10 +60,11 @@ while (port.isOpen()):
 
 Run the program
 ```console
+$ cd Python/serial_read
 $ python serial_read.py
 ```
 #### With Java
-Edit [Program.java](Java/Program.java) to set the serial port name.
+Edit [Program.java](Java/serial_read/src/main/java/com/example/Program.java) to set the serial port name.
 ```Java
 public final class Program {
     public static void main(String args[]) {
@@ -71,10 +72,11 @@ public final class Program {
     }
 }
 ```
-Compile and run the program
+Run the program.
 ```console
-$ javac -d target -cp src:target src/main/java/ch/fhnw/imvs/ipro/*.java
-$ java -cp ./src:target:lib/x.jar:lib/y.jar Program
+$ cd Java/serial_read
+$ ./setup.sh && ./build.sh
+$ java -cp ./src:target Program
 ```
 
 #### Result
