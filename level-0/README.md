@@ -32,7 +32,7 @@ Take notes for yourself.
     $ history
     ```
 - Consider using `>` to add notes
-    > me: Like this, right here.
+> Like this, right here.
 - Or use a daily .TXT / .MD file, e.g.
     ```
     $ nano Notes_v20250823.txt
