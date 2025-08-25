@@ -26,9 +26,12 @@ To achieve the goals, use these blocks.
 Take notes for yourself.
 
 - Explore alternatives in parallel.
-- Find out what you already tried.
-
-Consider using `>` to add notes.
+- Find again what you already tried.
+- Include your command line history
+    ```console
+    $ history
+    ```
+- Consider using `>` to add notes.
 
 > Like this, right here.
 
