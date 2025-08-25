@@ -29,7 +29,7 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 ...
 
 ### Read ASCII bytes from a serial port
-On your computer.
+On your computer, with a device conncted via USB.
 
 #### With _screen_, in a terminal (on Mac, Linux)
 ```console
