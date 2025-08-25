@@ -14,6 +14,7 @@ To achieve the goals, use these blocks.
 
 - [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
 - [ ] [Add a library to your Microbit code](#add-a-library-to-your-microbit-code)
+- [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
 - [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
@@ -32,6 +33,18 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 - Search for a library, e.g. _Grove_
 - Click the library to add it
 - Check for new blocks
+
+### Write ASCII bytes to a serial port
+On your Microbit device, connected via USB.
+
+#### With MakeCode
+```Python
+idef on_forever():
+    serial.write_string("hello, ")
+    serial.write_number(23)
+    serial.write_line("!")
+basic.forever(on_forever)
+```
 
 ### Read ASCII bytes from a serial port
 On your computer, with a device connected via USB.
