@@ -9,7 +9,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
-- [ ] Set up Github and git, on your laptop
+- [ ] Set up Github and git, on your computer
 - [ ] Create a private copy of this repository
 - [ ] Commit and push to your copy of the repo
 - [ ] Use the terminal or cmd, to work with files
