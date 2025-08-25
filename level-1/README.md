@@ -90,8 +90,7 @@ ASCII data sent over USB shows up, e.g.
 ```
 
 #### Errors
-<details>
-<summary>Got an error? Check these tips...</summary>
+Got an error? Check these tips.
 
 - Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial)
 - Terminal _permission denied: ./script.sh_
@@ -102,8 +101,6 @@ ASCII data sent over USB shows up, e.g.
     ```console
     $ stty sane
     ```
-
-</details>
 
 ### Store data in CSV format into a file
 ...
