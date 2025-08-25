@@ -38,7 +38,10 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 On your Microbit device, connected via USB.
 
 #### With MakeCode
-Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) library to write strings and numbers.
+Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) blocks to write strings and numbers.
+
+#### Result
+ASCII data is sent over USB serial.
 
 ### Read ASCII bytes from a serial port
 On your computer, with a device connected via USB.
