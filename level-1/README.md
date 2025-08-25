@@ -32,7 +32,7 @@ On an embedded device, connected via USB.
 #### With MakeCode
 Open _Extensions_, search for a library, e.g. [Grove](https://makecode.microbit.org/v1/pkg/Seeed-Studio/pxt-grove), click to add it.
 
-Check for new blocks matching the sensor name, e.g. SCD30.
+Check for new blocks matching the sensor name, e.g. _SCD30_.
 
 #### With FeatherS3
 ...
