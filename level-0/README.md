@@ -28,9 +28,11 @@ Take notes for yourself.
 - Explore alternatives in parallel.
 - Find out what you already tried.
 
-Consider using `>` to add notes right here.
+Consider using `>` to add notes.
 
-> Like this.
+> Like this, right here.
+
+Or use a .TXT od .MD file.
 
 ### Learn how to make a prototype
 How to [Make a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
