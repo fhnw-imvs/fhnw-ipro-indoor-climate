@@ -34,7 +34,7 @@ Plug the Microbit into the Grove adapter.
 
 Wire the sensor to the Grove port named _I2C_.
 
-Open _Extensions_, search for a library, e.g. [Grove](https://makecode.microbit.org/v1/pkg/Seeed-Studio/pxt-grove), click to add it.
+Open _Extensions_, search for / select a library, e.g. [Grove](https://makecode.microbit.org/v1/pkg/Seeed-Studio/pxt-grove).
 
 Check for new blocks matching the sensor name, e.g. _SCD30_.
 
