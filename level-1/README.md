@@ -46,7 +46,7 @@ Install the [pyserial](https://pyserial.readthedocs.io/en/latest/shortintro.html
 $ pip uninstall serial
 $ pip install pyserial
 ```
-Edit [serial_read.py](Python/serial_read/serial_read.py) to set the port name.
+Edit [serial_read.py](Python/serial_read/serial_read.py) to set the serial port name.
 ```Python
 import serial
 
@@ -63,7 +63,7 @@ Run the program
 $ python serial_read.py
 ```
 #### With Java
-Edit [Program.java](Java/Program.java) to set the port name.
+Edit [Program.java](Java/Program.java) to set the serial port name.
 ```Java
 public final class Program {
     public static void main(String args[]) {
@@ -73,7 +73,7 @@ public final class Program {
 ```
 Compile and run the program
 ```console
-$ javac ...
+$ javac -d target -cp src:target src/main/java/ch/fhnw/imvs/ipro/*.java
 $ java -cp ./src:target:lib/x.jar:lib/y.jar Program
 ```
 
