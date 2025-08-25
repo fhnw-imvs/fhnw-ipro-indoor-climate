@@ -53,6 +53,9 @@ On an embedded device, connected via USB.
 #### With MakeCode
 Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) blocks to write strings and numbers.
 
+#### With FeatherS3
+...
+
 #### Result
 ASCII data is sent over USB serial.
 
