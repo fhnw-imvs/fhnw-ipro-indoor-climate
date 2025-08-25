@@ -32,10 +32,8 @@ Take notes for yourself.
     $ history
     ```
 - Consider using `>` to add notes.
-
-> Like this, right here.
-
-Or use a new .TXT od .MD file.
+    > Like this, right here.
+- Or use a new .TXT od .MD file.
 
 ### Learn how to make a prototype
 How to [Make a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
