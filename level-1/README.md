@@ -48,9 +48,14 @@ $ pip install pyserial
 ```
 Set your serial port name and run [serial_read.py](Python/serial_read/serial_read.py).
 ```Python
-port = serial.Serial('COM3') # or '/dev/tty.u...'
+import serial
+
+port = serial.Serial('/dev/tty.usbmodem102') # or 'COM3'
 port.baudrate = 115200
-bytes = port.readline()
+while (port.isOpen()):
+    bytes = port.readline()
+    chars = str(bytes, 'utf-8')
+    print(chars)
 ```
 #### With Java
 ```Java
