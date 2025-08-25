@@ -3,9 +3,9 @@
 To finish the level, achieve these goals.
 
 - [ ] Read a CO2 sensor, on the Microbit
-- [ ] Send data via USB, to your laptop
-- [ ] Store sensor data, on your laptop
-- [ ] Read stored data, on your laptop
+- [ ] Send data via USB, to your computer
+- [ ] Store sensor data, on your computer
+- [ ] Read stored data, on your computer
 - [ ] Show historical data as a chart
 - [ ] Build an end-to-end prototype
 
@@ -152,4 +152,4 @@ To learn more, consider these side quests.
 
 - [ ] Show a "bad room climate" alert on the Microbit
 - [ ] Add other [available sensors](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main), e.g. light or PIR
-- [ ] Replace your laptop with a Raspberry Pi
+- [ ] Replace your computer with a Raspberry Pi
