@@ -26,7 +26,7 @@ To achieve the goals, use these blocks.
 ...
 
 ### Check done items off the list
-Edit each [README.md](.) to check off done items.
+Edit each [README.md](README.md) to check off done items.
 
 ## Side quests
 To learn more, consider these side quests.
