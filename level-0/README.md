@@ -19,10 +19,10 @@ To achieve the goals, use these blocks.
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
 - [ ] Take notes, keep a project log
-- [ ] [Know basic debugging principles](#know-basic-debugging-principles)
+- [ ] [Know principles for prototyping](#know-basic-principles-for-prototyping)
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
-### Know basic debugging principles
+### Know principles for prototyping
 Some principles from a talk on [Making a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
 
 - Draw a sketch
