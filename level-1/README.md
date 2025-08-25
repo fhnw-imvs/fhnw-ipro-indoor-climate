@@ -89,7 +89,7 @@ ASCII data sent over USB shows up, e.g.
 ...
 ```
 <details>
-<summary>Not what you expect? Show/hide some tips...</summary>
+<summary>Does not work? <u>Check these tips</u>.</summary>
 
 - Python [AttributeError: module 'serial' has no attribute 'Serial'](https://stackoverflow.com/questions/41199876/attributeerror-module-serial-has-no-attribute-serial)
 - Terminal _permission denied: ./script.sh_
