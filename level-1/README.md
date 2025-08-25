@@ -62,13 +62,6 @@ Run the code
 ```console
 $ python serial_read.py
 ```
-
-```console
-(485.480316162109)
-(485.607025146484)
-(485.632629394531)
-...
-```
 #### With Java
 ```Java
 ...
@@ -76,6 +69,15 @@ $ python serial_read.py
 Run the program
 ```console
 $ ...
+```
+
+#### Result
+ASCII data sent over USB shows up, e.g.
+```console
+(485.480316162109)
+(485.607025146484)
+(485.632629394531)
+...
 ```
 
 #### Troubleshooting
