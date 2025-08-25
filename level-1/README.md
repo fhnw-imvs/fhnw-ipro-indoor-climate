@@ -39,7 +39,13 @@ Open _Extensions_, search for / select a library, e.g. [Grove](https://makecode.
 Check for new blocks matching the sensor name, e.g. _SCD30_.
 
 #### With FeatherS3
-...
+Plug the Feather board into the Grove adapter.
+
+Wire the sensor to a Grove port named _I2C_.
+
+Copy the sensor library to the board.
+
+Use the library to read a value.
 
 ### Write ASCII bytes to a serial port
 On an embedded device, connected via USB.
