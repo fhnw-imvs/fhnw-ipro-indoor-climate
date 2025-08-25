@@ -22,6 +22,16 @@ To achieve the goals, use these blocks.
 - [ ] [Learn how to make a prototype](#learn-how-to-make-a-prototype)
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
+### Take notes, keep a project log
+Take notes for yourself.
+
+- Explore alternatives in parallel.
+- Find out what you already tried.
+
+Consider using `>` to add notes right here.
+
+> Linke this.
+
 ### Learn how to make a prototype
 How to [Make a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
 
