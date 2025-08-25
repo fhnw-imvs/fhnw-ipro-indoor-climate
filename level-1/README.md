@@ -29,7 +29,7 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 ### Read a value from an I2C sensor
 On an embedded device, connected via USB.
 
-#### With MakeCode
+#### With MakeCode (on Microbit)
 Plug the Microbit into the Grove adapter.
 
 Wire the sensor to the Grove port named _I2C_.
@@ -38,7 +38,7 @@ Open _Extensions_, search for / select a library, e.g. [Grove](https://makecode.
 
 Check for new blocks matching the sensor name, e.g. _SCD30_.
 
-#### With FeatherS3
+#### With CircuitPython (on FeatherS3)
 Plug the Feather board into the Grove adapter.
 
 Wire the sensor to a Grove port named _I2C_.
@@ -50,10 +50,10 @@ Use the library to read a value.
 ### Write ASCII bytes to a serial port
 On an embedded device, connected via USB.
 
-#### With MakeCode
+#### With MakeCode (on Microbit)
 Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) blocks to write strings and numbers.
 
-#### With FeatherS3
+#### With CircuitPython (on FeatherS3)
 ...
 
 #### Result
