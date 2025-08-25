@@ -30,7 +30,7 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 On an embedded device, connected via USB.
 
 #### With MakeCode
-Open _Extensions_, search for a library, e.g. _Grove_, click to add it, then check for new blocks.
+Open _Extensions_, search for a library, e.g. [Grove](https://makecode.microbit.org/v1/pkg/Seeed-Studio/pxt-grove), click to add it, then check for new blocks.
 
 #### With FeatherS3
 ...
