@@ -20,7 +20,7 @@ To achieve the goals, use these blocks.
 - [ ] Get the hardware kit, return after use
 - [ ] Take notes, keep a project log
 - [ ] [Know basic debugging principles](#know-basic-debugging-principles)
-- [x] Check done items off the list
+- [x] [Check done items off the list](#check-done-items-off-the-list)
 
 ### Know basic debugging principles
 ...
