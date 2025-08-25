@@ -23,7 +23,7 @@ To achieve the goals, use these blocks.
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
 ### Know basic debugging principles
-...
+Some of the principles in this talk on [Making a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf) might help.
 
 ### Check done items off the list
 Edit each [README.md](README.md) to check off `[x]` done items.
