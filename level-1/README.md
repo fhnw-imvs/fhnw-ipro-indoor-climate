@@ -64,7 +64,7 @@ $ cd level-1/Python/serial_read
 $ python serial_read.py
 ```
 #### With Java
-Edit [Program.java](Java/serial_read/src/main/java/com/example/Program.java) to set the serial port name.
+Edit [Program.java](Java/serial_read/src/main/java/Program.java) to set the serial port name.
 ```Java
 public final class Program {
     public static void main(String args[]) {
