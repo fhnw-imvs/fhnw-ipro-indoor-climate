@@ -46,7 +46,7 @@ Install the [pyserial](https://pyserial.readthedocs.io/en/latest/shortintro.html
 $ pip uninstall serial
 $ pip install pyserial
 ```
-Save this code into [serial_read.py](Python/serial_read/serial_read.py).
+Edit the code in [serial_read.py](Python/serial_read/serial_read.py).
 ```Python
 import serial
 
@@ -58,7 +58,7 @@ while (port.isOpen()):
     print(chars)
 ```
 
-Run the program
+Run the code
 ```console
 $ python serial_read.py
 ```
