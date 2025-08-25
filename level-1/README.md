@@ -30,7 +30,9 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 On an embedded device, connected via USB.
 
 #### With MakeCode
-Wire the sensor to Microbit using the Grove port named _I2C_.
+Plug the Microbit into the Grove adapter.
+
+Wire the sensor to the Grove port named _I2C_.
 
 Open _Extensions_, search for a library, e.g. [Grove](https://makecode.microbit.org/v1/pkg/Seeed-Studio/pxt-grove), click to add it.
 
