@@ -13,7 +13,7 @@ To finish the level, achieve these goals.
 To achieve the goals, use these blocks.
 
 - [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
-- [ ] [Add a library to your Microbit code](#add-a-library-to-your-microbit-code)
+- [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
 - [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
@@ -26,16 +26,17 @@ To achieve the goals, use these blocks.
 ### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
-### Add a library to your Microbit code
-- Open [MakeCode](https://makecode.microbit.org)
-- Open a project
-- Click _Extensions_
-- Search for a library, e.g. _Grove_
-- Click the library to add it
-- Check for new blocks
+### Read a value from an I2C sensor
+On an embedded device, connected via USB.
+
+#### With MakeCode
+Open _Extensions_, search for a library, e.g. _Grove_, click to add it, then check for new blocks.
+
+#### With FeatherS3
+...
 
 ### Write ASCII bytes to a serial port
-On your Microbit device, connected via USB.
+On an embedded device, connected via USB.
 
 #### With MakeCode
 Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) blocks to write strings and numbers.
