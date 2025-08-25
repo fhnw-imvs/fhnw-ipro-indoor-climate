@@ -25,6 +25,9 @@ To achieve the goals, use these blocks.
 ### Know basic debugging principles
 ...
 
+### Check done items off the list
+Edit each [README.md](.) to check off done items.
+
 ## Side quests
 To learn more, consider these side quests.
 
