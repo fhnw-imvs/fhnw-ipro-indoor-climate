@@ -26,6 +26,11 @@ To achieve the goals, use these blocks.
 ### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
+- Open the editor https://makecode.microbit.org/
+- Connect the Microbit to your computer via USB
+- Download the .hex file to the "MICROBIT" drive
+- Wait for the Microbit's LED to stop blinking
+  
 ### Read a value from an I2C sensor
 On an embedded device, connected via USB.
 
