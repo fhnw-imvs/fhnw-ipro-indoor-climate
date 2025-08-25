@@ -7,7 +7,8 @@ To finish the level, achieve these goals.
 - [ ] ...
 - [ ] ...
 - [ ] ...
-
+- [ ] Build an end-to-end prototype
+      
 ## Building blocks
 To achieve the goals, use these blocks.
 
