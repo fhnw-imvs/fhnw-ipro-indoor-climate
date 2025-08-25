@@ -7,6 +7,7 @@ To finish the level, achieve these goals.
 - [ ] Store sensor data, on your laptop
 - [ ] Read stored data, on your laptop
 - [ ] Show historical data as a chart
+- [ ] Build an end-to-end prototype
 
 ## Building blocks
 To achieve the goals, use these blocks.
