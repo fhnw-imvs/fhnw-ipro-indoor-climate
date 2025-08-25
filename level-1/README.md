@@ -58,11 +58,12 @@ while (port.isOpen()):
     print(chars)
 ```
 
-Run the program
+Run the program.
 ```console
 $ cd level-1/Python/serial_read
 $ python serial_read.py
 ```
+
 #### With Java
 Edit [Program.java](Java/serial_read/src/main/java/Program.java) to set the serial port name.
 ```Java
