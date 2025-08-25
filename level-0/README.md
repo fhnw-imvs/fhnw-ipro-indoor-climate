@@ -30,7 +30,7 @@ Take notes for yourself.
 
 Consider using `>` to add notes right here.
 
-> Linke this.
+> Like this.
 
 ### Learn how to make a prototype
 How to [Make a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
