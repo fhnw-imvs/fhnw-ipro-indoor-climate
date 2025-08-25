@@ -75,7 +75,7 @@ public final class Program {
 Run the program.
 ```console
 $ cd level-1/Java/serial_read
-$ ./setup.sh && ./build.sh
+$ ./clean.sh && ./setup.sh && ./build.sh
 $ java -cp ./src:target Program
 ```
 
