@@ -46,7 +46,7 @@ Install the [pyserial](https://pyserial.readthedocs.io/en/latest/shortintro.html
 $ pip uninstall serial
 $ pip install pyserial
 ```
-Set your serial port name and run [serial_read.py](Python/serial_read/serial_read.py).
+Set your serial port name in [serial_read.py](Python/serial_read/serial_read.py).
 ```Python
 import serial
 
@@ -56,6 +56,11 @@ while (port.isOpen()):
     bytes = port.readline()
     chars = str(bytes, 'utf-8')
     print(chars)
+```
+
+Run the program
+```console
+$ python serial_read.py
 ```
 #### With Java
 ```Java
