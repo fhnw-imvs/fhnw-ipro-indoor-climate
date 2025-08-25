@@ -40,13 +40,17 @@ $ screen /dev/tty.u<TAB> 115200
 ...
 
 #### With Python
+Install the [pyserial](https://pyserial.readthedocs.io/en/latest/shortintro.html) library.
+```console
+$ pip uninstall serial
+$ pip install pyserial
+```
+Set your serial port name and run [serial_read.py](Python/serial_read/serial_read.py).
 ```Python
 port = serial.Serial('COM3') # or '/dev/tty.u...'
 port.baudrate = 115200
 bytes = port.readline()
 ```
-See [serial_read.py](Python/serial_read/serial_read.py)
-
 #### With Java
 ```Java
 ...
