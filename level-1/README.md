@@ -38,13 +38,7 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 On your Microbit device, connected via USB.
 
 #### With MakeCode
-```Python
-idef on_forever():
-    serial.write_string("hello, ")
-    serial.write_number(23)
-    serial.write_line("!")
-basic.forever(on_forever)
-```
+Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) library to write strings and numbers.
 
 ### Read ASCII bytes from a serial port
 On your computer, with a device connected via USB.
