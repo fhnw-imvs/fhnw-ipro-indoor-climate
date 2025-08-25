@@ -26,7 +26,12 @@ To achieve the goals, use these blocks.
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
 ### Add a library to your Microbit code
-...
+- Open [MakeCode](https://makecode.microbit.org)
+- Open a project
+- Click _Extensions_
+- Search for a library, e.g. _Grove_
+- Click the library to add it
+- Check for new blocks
 
 ### Read ASCII bytes from a serial port
 On your computer, with a device connected via USB.
