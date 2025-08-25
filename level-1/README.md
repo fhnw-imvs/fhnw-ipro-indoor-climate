@@ -98,6 +98,10 @@ ASCII data sent over USB shows up, e.g.
     ```console
     $ chmod u+x *.sh
     ```
+- Terminal shows garbage after _screen_
+    ```console
+    $ stty sane
+    ```
 
 </details>
 
