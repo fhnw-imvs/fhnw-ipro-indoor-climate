@@ -39,7 +39,7 @@ Take notes for yourself.
     ```
 
 ### Learn how to make a prototype
-How to [Make a Prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
+How to [make a prototype](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf).
 
 - Draw a sketch
 - Start simple, iterate
