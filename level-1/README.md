@@ -143,7 +143,7 @@ Got an error? Check these tips.
 ### Open a CSV file as a spreadsheet
 ...
 
-### Read data from a database with SQL
+### Store data into a database with SQL
 ...
 
 ### Read data from a database with SQL
