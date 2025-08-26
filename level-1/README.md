@@ -68,7 +68,7 @@ $ screen /dev/tty.u<TAB> 115200
 (To end _screen_ press CTRL-A-K.)
 
 #### With _PuTTY_ (on Windows)
-- Install [PuTTY](https://putty.software)
+- Install [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - Select the _Session_ tab
 - Select _Connection type: Serial_
 - Edit _Serial line: COM3_
