@@ -1,4 +1,13 @@
 # Level 0: Getting started
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD
+    tickInterval 1day
+    Level 0 :t0, 2025-08-25, 2d
+    Level 1 :t1, after t2, 2d
+    Level 2 :t2, after t1, 2d
+```
+
 ## Goals
 To finish the level, achieve these goals.
 
