@@ -35,20 +35,18 @@ To achieve the goals, use these blocks.
 
 ### Maintain an updated project timeline
 - Create e.g. a Gantt chart
-  ```mermaid
+- Find out what to do next
+- See how much time is left
+- Update the plan every week
+
+```mermaid
 gantt
     title My Project
     dateFormat  YYYY-MM-DD
     section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
+    Fix Y2K :t1, 1999-12-31, 1d
+    Use DB  :after t1, 3d
 ```  
-- Find out what to do next
-- See how much time is left
-- Update the plan every week
 
 ### Keep a project log to take notes
 Take notes for yourself.
