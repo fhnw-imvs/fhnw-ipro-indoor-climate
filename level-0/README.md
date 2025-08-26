@@ -15,9 +15,7 @@ To achieve the goals, use these blocks.
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] Use a venv virtual environment with Python
-- [ ] Set up the Mu editor, for CircuitPython
 - [ ] Find the Microbit device you already got
-- [ ] Get the hardware kit, return after use
 - [ ] [Keep a project log to take notes](#keep-a-project-log-to-take-notes)
 - [ ] [Learn how to make a prototype](#learn-how-to-make-a-prototype)
 - [x] [Check done items off the list](#check-done-items-off-the-list)
