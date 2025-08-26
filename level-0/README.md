@@ -26,7 +26,9 @@ To achieve the goals, use these blocks.
 - Click _Use this template_
 - Select _Create new repository_
 - Name it fhnw-ipro-indoor-climate-USER, e.g.
-    fhnw-ipro-indoor-climate-tamberg (for @tamberg)
+    ```
+    fhnw-ipro-indoor-climate-tamberg
+    ```
 - Choose visibility _Private_
 - Click _Create repository_
 
