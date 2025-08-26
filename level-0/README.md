@@ -48,7 +48,6 @@ gantt
     Fix Y2K Bug       :t1, 1999-12-31, 1d
     Party             :t2, after t1, 1d
 ```
-
 ### Keep a project log to take notes
 Take notes for yourself.
 
