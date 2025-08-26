@@ -42,11 +42,12 @@ To achieve the goals, use these blocks.
 ```mermaid
 gantt
     title My Gantt Chart
-    dateFormat  YYYY-MM-DD
+    dateFormat YYYY-MM-DD
+    tickInterval 1day
     section Section
     Fix Y2K Bugs :t1, 1999-12-31, 1d
-    Party  :t2, after t1, 1d
-    Use Software  :t3, after t2, 1d
+    Party        :t2, after t1, 1d
+    Use Software :t3, after t1, 3d
 ```
 
 ### Keep a project log to take notes
