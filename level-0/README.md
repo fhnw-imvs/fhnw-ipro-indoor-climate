@@ -37,6 +37,7 @@ To achieve the goals, use these blocks.
 - Create e.g. a GANTT chart
 - Find out what to do next
 - See how much time is left
+- Update the plan every week
 
 ### Keep a project log to take notes
 Take notes for yourself.
