@@ -17,6 +17,7 @@ To achieve the goals, use these blocks.
 - [ ] Use a venv virtual environment with Python
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
+- [ ] [Maintain an updated project timeline](#maintain-an-updated-project-timeline)
 - [ ] [Keep a project log to take notes](#keep-a-project-log-to-take-notes)
 - [ ] [Learn how to make a prototype](#learn-how-to-make-a-prototype)
 - [x] [Check done items off the list](#check-done-items-off-the-list)
@@ -31,6 +32,11 @@ To achieve the goals, use these blocks.
     ```
 - Choose visibility _Private_
 - Click _Create repository_
+
+### Maintain an updated project timeline
+- Create e.g. a GANTT chart
+- Find out what to do next
+- See how much time is left
 
 ### Keep a project log to take notes
 Take notes for yourself.
