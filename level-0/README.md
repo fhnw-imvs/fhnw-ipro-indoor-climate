@@ -10,17 +10,27 @@ To finish the level, achieve these goals.
 To achieve the goals, use these blocks.
 
 - [ ] Set up Github and git, on your computer
-- [ ] Create a private copy of this repository
+- [ ] [Create a private copy of this repository](#create-a-private-copy-of-this-repository)
 - [ ] Commit and push to your copy of the repo
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] Use a venv virtual environment with Python
-- [ ] Set up the Mu editor, for CircuitPython
 - [ ] Find the Microbit device you already got
 - [ ] Get the hardware kit, return after use
 - [ ] [Keep a project log to take notes](#keep-a-project-log-to-take-notes)
 - [ ] [Learn how to make a prototype](#learn-how-to-make-a-prototype)
 - [x] [Check done items off the list](#check-done-items-off-the-list)
+
+### Create a private copy of this repository
+- Visit https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate
+- Click _Use this template_
+- Select _Create new repository_
+- Name it _fhnw-ipro-indoor-climate-USER_, e.g.
+    ```
+    fhnw-ipro-indoor-climate-tamberg
+    ```
+- Choose visibility _Private_
+- Click _Create repository_
 
 ### Keep a project log to take notes
 Take notes for yourself.

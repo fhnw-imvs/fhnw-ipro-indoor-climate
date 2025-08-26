@@ -12,6 +12,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
+- [ ] Set up the Mu editor, for CircuitPython
 - [ ] [Use the FeatherS3 with CircuitPython](#use-the-feathers3-with-circuitpython)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
