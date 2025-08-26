@@ -44,9 +44,10 @@ gantt
     title My Gantt Chart
     dateFormat  YYYY-MM-DD
     section Section
-    Fix Y2K :t1, 1999-12-31, 1d
-    Use DB  :after t1, 7d
-```  
+    Fix Y2K Bugs :t1, 1999-12-31, 1d
+    Party  :t2, after t1, 1d
+    Use Software  :t3 after t2, 1d
+```
 
 ### Keep a project log to take notes
 Take notes for yourself.
