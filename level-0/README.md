@@ -34,14 +34,14 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Maintain an updated project timeline
-- Create e.g. a Gantt chart
+- Create e.g. a [Gantt chart](https://docs.mermaidchart.com/mermaid-oss/syntax/gantt.html)
 - Find out what to do next
 - See how much time is left
 - Update the plan every week
 
 ```mermaid
 gantt
-    title My Project
+    title My Gantt Chart
     dateFormat  YYYY-MM-DD
     section Section
     Fix Y2K :t1, 1999-12-31, 1d
