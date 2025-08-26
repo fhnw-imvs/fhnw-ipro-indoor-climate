@@ -1,2 +1,2 @@
 #!/bin/sh
-javac -d target -cp src:target src/main/java/com/example/*.java
+javac -d target -cp src:target src/main/java/*.java
