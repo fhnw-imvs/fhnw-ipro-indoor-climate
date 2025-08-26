@@ -1,4 +1,6 @@
 # Level 2: Analyzing your data
+<img src="sketch.png" width="512"/>
+
 ## Goals
 To finish the level, achieve these goals.
 
