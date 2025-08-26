@@ -34,7 +34,18 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Maintain an updated project timeline
-- Create e.g. a GANTT chart
+- Create e.g. a Gantt chart
+  ```mermaid
+gantt
+    title My Project
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
+```  
 - Find out what to do next
 - See how much time is left
 - Update the plan every week
