@@ -1,4 +1,14 @@
 # Level 0: Getting started
+```mermaid
+gantt
+    title My Gantt Chart
+    dateFormat YYYY-MM-DD
+    tickInterval 1day
+    Run 80's Software :t0, 1999-12-30, 3d
+    Fix Y2K Bug       :t1, 1999-12-31, 1d
+    Party             :t2, after t1, 1d
+```
+
 ## Goals
 To finish the level, achieve these goals.
 
@@ -39,15 +49,6 @@ To achieve the goals, use these blocks.
 - See how much time is left
 - Update the plan every week
 
-```mermaid
-gantt
-    title My Gantt Chart
-    dateFormat YYYY-MM-DD
-    tickInterval 1day
-    Run 80's Software :t0, 1999-12-30, 3d
-    Fix Y2K Bug       :t1, 1999-12-31, 1d
-    Party             :t2, after t1, 1d
-```
 ### Keep a project log to take notes
 Take notes for yourself.
 
