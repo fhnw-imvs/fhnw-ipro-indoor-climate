@@ -1,4 +1,5 @@
 # Level 0: Getting started
+<kbd>
 ```mermaid
 gantt
     title My Gantt Chart
@@ -8,6 +9,7 @@ gantt
     Fix Y2K Bug       :t1, 1999-12-31, 1d
     Party             :t2, after t1, 1d
 ```
+</kbd>
 
 ## Goals
 To finish the level, achieve these goals.
