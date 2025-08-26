@@ -27,7 +27,7 @@ To achieve the goals, use these blocks.
 - Select _Create new repository_
 - Name it fhnw-ipro-indoor-climate-USER, e.g.
     fhnw-ipro-indoor-climate-tamberg (for @tamberg)
-- Set visibility to _private_
+- Choose visibility _Private_
 
 ### Keep a project log to take notes
 Take notes for yourself.
