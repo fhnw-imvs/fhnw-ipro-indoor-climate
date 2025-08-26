@@ -1,12 +1,4 @@
 # Level 0: Getting started
-```mermaid
-gantt
-    dateFormat YYYY-MM-DD
-    tickInterval 1day
-    Run 80's Software :t0, 1999-12-30, 3d
-    Fix Y2K Bug       :t1, 1999-12-31, 1d
-    Party             :t2, after t1, 1d
-```
 
 ## Goals
 To finish the level, achieve these goals.
@@ -43,6 +35,15 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Plan and update a project timeline
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD
+    tickInterval 1day
+    Run 80's Software :t0, 1999-12-30, 3d
+    Fix Y2K Bug       :t1, 1999-12-31, 1d
+    Party             :t2, after t1, 1d
+```
+
 - Create e.g. a [Gantt chart](https://docs.mermaidchart.com/mermaid-oss/syntax/gantt.html)
 - Find out what to do next
 - See how much time is left
