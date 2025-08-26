@@ -22,7 +22,7 @@ To achieve the goals, use these blocks.
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
 ### Create a private copy of this repository
-- https://github.com/fhnw-imvs/fhnw-ipro-indoor-, climate
+- Visit https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate
 - Click _Use this template_
 - Select _Create new repository_
 - Name it fhnw-ipro-indoor-climate-USER, e.g.
