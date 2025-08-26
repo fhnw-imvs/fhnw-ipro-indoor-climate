@@ -1,7 +1,6 @@
 # Level 0: Getting started
 ```mermaid
 gantt
-    title My Gantt Chart
     dateFormat YYYY-MM-DD
     tickInterval 1day
     Run 80's Software :t0, 1999-12-30, 3d
