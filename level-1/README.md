@@ -1,5 +1,5 @@
 # Level 1: Logging sensor data
-<kbd><img src="sketch.png" width="512" style="border:1"/></kbd>
+<img src="sketch.png" width="512"/>
 ## Goals
 To finish the level, achieve these goals.
 
