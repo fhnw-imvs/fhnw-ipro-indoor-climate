@@ -45,7 +45,7 @@ gantt
     dateFormat  YYYY-MM-DD
     section Section
     Fix Y2K :t1, 1999-12-31, 1d
-    Use DB  :after t1, 3d
+    Use DB  :after t1, 7d
 ```  
 
 ### Keep a project log to take notes
