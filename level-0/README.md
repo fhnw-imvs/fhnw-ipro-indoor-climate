@@ -25,7 +25,7 @@ To achieve the goals, use these blocks.
 - Visit https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate
 - Click _Use this template_
 - Select _Create new repository_
-- Name it fhnw-ipro-indoor-climate-USER, e.g.
+- Name it _fhnw-ipro-indoor-climate-USER_, e.g.
     ```
     fhnw-ipro-indoor-climate-tamberg
     ```
