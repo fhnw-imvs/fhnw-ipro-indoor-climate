@@ -68,10 +68,12 @@ $ screen /dev/tty.u<TAB> 115200
 (To end _screen_ press CTRL-A-K.)
 
 #### With _PuTTY_ (on Windows)
-- Connection type: Serial
-- Serial line: COM3
-- Speed: 115200
-- Open
+- Install [putty.software](PuTTY)
+- Select the _Session_ tab
+- Select _Connection type: Serial_
+- Edit _Serial line: COM3_
+- Select _Speed: 115200_
+- Click _Open_ to connect
 
 #### With Python
 Install the [pyserial](https://pyserial.readthedocs.io/en/latest/shortintro.html) library.
