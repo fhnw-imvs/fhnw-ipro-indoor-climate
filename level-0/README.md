@@ -1,4 +1,8 @@
 # Level 0: Getting started
+
+## Schedule
+To be updated.
+
 ```mermaid
 gantt
     dateFormat YYYY-MM-DD
