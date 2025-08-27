@@ -47,7 +47,7 @@ To achieve the goals, use these blocks.
 - Create e.g. a [Gantt chart](https://docs.mermaidchart.com/mermaid-oss/syntax/gantt.html)
 - Find out what to do next
 - See how much time is left
-- Update the plan every week
+- Update the plan regularly
 
 ### Keep a project log to take notes
 Take notes for yourself.
