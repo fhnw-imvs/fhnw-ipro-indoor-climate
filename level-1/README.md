@@ -25,6 +25,7 @@ To achieve the goals, use these blocks.
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
 - [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
 - [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
+- [ ] [Run a database client to test SQL](#run-a-database-client-to-test-sql)
 - [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
 - [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
 
@@ -203,7 +204,6 @@ In the sql-window of the gui, enter the following command (adapt the table-struc
     COMMIT;
 	```	
   To drop the table use `DROP TABLE DATA;` To close the gui, use `File - Exit`.
-
 
 ### Read data from a database with SQL
 #### With HSQLDB Manager
