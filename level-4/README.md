@@ -1,4 +1,6 @@
 # Level 4: Scaling up and out
+To document your setup, update this sketch.
+
 <kbd><img src="sketch.png" height="240"/></kbd>
 
 ## Goals
