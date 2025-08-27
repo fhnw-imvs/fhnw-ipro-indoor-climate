@@ -1,6 +1,4 @@
 # Level 2: Analyzing your data
-<kbd><img src="sketch.png" width="512"/></kbd>
-
 ## Goals
 To finish the level, achieve these goals.
 
