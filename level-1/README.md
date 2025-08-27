@@ -148,7 +148,8 @@ Got an error? Check these tips.
 ...
 
 ### Store data into a database with SQL
-3. Start the gui and connect
+#### With HSQLDB Manager
+- Start the gui and connect
 Run the following command:
    ```md
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.util.DatabaseManagerSwing  \
@@ -157,7 +158,7 @@ Run the following command:
    Alternatively, adapt und run script `bin\runManagerSwing.bat`.
    If successfull, a gui opens, showing a connection to the server running on localhost.
 
-4. Create a table and test some SQL    
+- Create a table and test some SQL    
 In the sql-window of the gui, enter the following command (adapt the table-structure to your needs):
     ```sql
     CREATE TABLE DATA (
@@ -169,7 +170,7 @@ In the sql-window of the gui, enter the following command (adapt the table-struc
     COMMIT;
 	```
 	
-	You can add some data and read it:
+	Add some data:
     ```sql
     INSERT INTO DATA (VALUE) VALUES (23);
     INSERT INTO DATA (VALUE) VALUES (22);
@@ -179,7 +180,8 @@ In the sql-window of the gui, enter the following command (adapt the table-struc
 
 
 ### Read data from a database with SQL
-3. Start the gui and connect
+#### With HSQLDB Manager
+- Start the gui and connect
 Run the following command:
    ```md
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.util.DatabaseManagerSwing  \
@@ -188,11 +190,8 @@ Run the following command:
    Alternatively, adapt und run script `bin\runManagerSwing.bat`.
    If successfull, a gui opens, showing a connection to the server running on localhost.
 
-	You can add some data and read it:
+	You can now read data:
     ```sql
-    INSERT INTO DATA (VALUE) VALUES (23);
-    INSERT INTO DATA (VALUE) VALUES (22);
-    COMMIT;
 	SELECT * FROM DATA;
 	```	
 
