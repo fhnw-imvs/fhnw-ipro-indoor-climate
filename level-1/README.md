@@ -1,5 +1,4 @@
 # Level 1: Logging sensor data
-## Sketch
 To document your setup, update this sketch.
 
 <kbd><img src="sketch.png" height="240"/></kbd>
