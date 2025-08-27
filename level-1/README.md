@@ -180,6 +180,7 @@ Got an error? Check these tips.
 A GUI opens, showing a connection to the server running on localhost.
 
 ### Store data into a database with SQL
+#### With any database client
 - Create a table.
     ```sql
     CREATE TABLE DATA (
@@ -203,11 +204,30 @@ A GUI opens, showing a connection to the server running on localhost.
     `DROP TABLE DATA;`
 	```
 
+#### With Python
+...
+
+#### With Java
+...
+
+#### Result
+...
+
 ### Read data from a database with SQL
+#### With any database client
 - Read data.
     ```sql
 	SELECT * FROM DATA;
 	```
+
+#### With Python
+...
+
+#### With Java
+...
+
+#### Result
+...
 
 ## Side quests
 To learn more, consider these side quests.
