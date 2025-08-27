@@ -16,6 +16,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
+- [ ] [Get a Microbit and USB cable](#get-a-microbit-and-usb-cable)
 - [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
@@ -27,9 +28,11 @@ To achieve the goals, use these blocks.
 - [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
 - [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
 
-### Use the Microbit with MakeCode
-Using the [Microbit device](https://makecode.microbit.org/device) and USB cable you already got.
+### Get a Microbit and USB cable
+- Use the Microbit device and USB cable you already got
+- Or borrow a Microbit device from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
 
+### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
 - Open the editor https://makecode.microbit.org/
