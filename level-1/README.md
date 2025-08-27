@@ -16,7 +16,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
-- [ ] [Get a Microbit hardware kit](#get-a-microbit-and-usb-cable)
+- [ ] [Get a Microbit hardware kit](#get-a-microbit-hardware-kit)
 - [ ] [Use the Microbit with MakeCode](#use-the-microbit-with-makecode)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
@@ -33,6 +33,8 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 - Microbit (or use your own)
 - Micro USB cable (or use your own)
 - Grove adapter for Microbit
+- Grove CO2 sensor
+- Grove cable
 
 ### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
