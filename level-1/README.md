@@ -180,7 +180,7 @@ Got an error? Check these tips.
 A GUI opens, showing a connection to the server running on localhost.
 
 ### Store data into a database with SQL
-- To create a table:
+- Create a table.
     ```sql
     CREATE TABLE DATA (
         VALUE NUMERIC(10,4),
@@ -191,14 +191,14 @@ A GUI opens, showing a connection to the server running on localhost.
     COMMIT;
 	```
 	
-- To add some data:
+- Insert some data.
     ```sql
     INSERT INTO DATA (VALUE) VALUES (23);
     INSERT INTO DATA (VALUE) VALUES (22);
     COMMIT;
 	```
 
-- To drop the table
+- Drop the table
     ```sql
     `DROP TABLE DATA;`
 	```
