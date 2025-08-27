@@ -174,13 +174,13 @@ Got an error? Check these tips.
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.util.DatabaseManagerSwing  \
                   --url jdbc:hsqldb:hsql://localhost --user SA
    ```
-   Alternatively, adapt und run script `bin\runManagerSwing.bat`.
-   If successfull, a gui opens, showing a connection to the server running on localhost.
+   Or adapt und run `bin\runManagerSwing.bat`.
+
+#### Result
+A GUI opens, showing a connection to the server running on localhost.
 
 ### Store data into a database with SQL
-#### With HSQLDB Manager
-- Create a table and test some SQL    
-In the sql-window of the gui, enter the following command (adapt the table-structure to your needs):
+- To create a table:
     ```sql
     CREATE TABLE DATA (
         VALUE NUMERIC(10,4),
@@ -191,13 +191,17 @@ In the sql-window of the gui, enter the following command (adapt the table-struc
     COMMIT;
 	```
 	
-	Add some data:
+- To add some data:
     ```sql
     INSERT INTO DATA (VALUE) VALUES (23);
     INSERT INTO DATA (VALUE) VALUES (22);
     COMMIT;
-	```	
-  To drop the table use `DROP TABLE DATA;` To close the gui, use `File - Exit`.
+	```
+
+- To drop the table
+    ```sql
+    `DROP TABLE DATA;`
+	```
 
 ### Read data from a database with SQL
 #### With HSQLDB Manager
