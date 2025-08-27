@@ -165,19 +165,20 @@ Got an error? Check these tips.
    ```md
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
    ```
-   Or adapt and run `bin\runServer.bat`. (To end _hsqldb-service_ press CTRL-C.)
+   Or adapt and run `bin\runServer.bat`. (To end it, press CTRL-C.)
 
 ### Use a database client to test SQL
 #### With HSQLDB Manager
-- To start the gui and connect, run the following command:
+- Start the client GUI and connect to, e.g. jdbc:hsqldb:hsql://localhost
    ```md
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.util.DatabaseManagerSwing  \
                   --url jdbc:hsqldb:hsql://localhost --user SA
    ```
    Or adapt und run `bin\runManagerSwing.bat`.
+- Enter SQL into the sql-window of the GUI client.
 
 #### Result
-A GUI opens, showing a connection to the server running on localhost.
+A GUI opens, showing a connection to the service running on localhost.
 
 ### Store data into a database with SQL
 #### With any database client
