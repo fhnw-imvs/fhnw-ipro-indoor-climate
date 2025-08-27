@@ -29,7 +29,7 @@ To achieve the goals, use these blocks.
 - [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
 
 ### Get a Microbit and USB cable
-- Use the Microbit device and USB cable you already got
+- Use the Microbit device and Micro USB cable you already got
 - Or borrow a Microbit device from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
 
 ### Use the Microbit with MakeCode
