@@ -25,7 +25,7 @@ To achieve the goals, use these blocks.
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
 - [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
 - [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
-- [ ] [Run a database client to test SQL](#run-a-database-client-to-test-sql)
+- [ ] [Use a database client to test SQL](#use-a-database-client-to-test-sql)
 - [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
 - [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
 
@@ -167,7 +167,7 @@ Got an error? Check these tips.
    ```
    Or adapt and run `bin\runServer.bat`. (To end _hsqldb-service_ press CTRL-C.)
 
-### Run a database client to test SQL
+### Use a database client to test SQL
 #### With HSQLDB Manager
 - To start the gui and connect, run the following command:
    ```md
