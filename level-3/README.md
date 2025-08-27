@@ -1,5 +1,5 @@
 # Level 3: Monitoring remotely
-<kbd><img src="sketch.png" width="512"/></kbd>
+<kbd><img src="sketch.png" width="640"/></kbd>
 
 ## Goals
 To finish the level, achieve these goals.
