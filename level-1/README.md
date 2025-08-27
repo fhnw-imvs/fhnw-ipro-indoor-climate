@@ -171,7 +171,7 @@ Run the following command:
    Alternatively, adapt und run script `bin\runServer.bat`.    
    Server can be stopped via `[Ctrl]+[C]`. For the next step, the server should be running.
 
-### Store data into a database with SQL
+### Run a database client to test SQL
 #### With HSQLDB Manager
 - Start the gui and connect
 Run the following command:
@@ -182,6 +182,8 @@ Run the following command:
    Alternatively, adapt und run script `bin\runManagerSwing.bat`.
    If successfull, a gui opens, showing a connection to the server running on localhost.
 
+### Store data into a database with SQL
+#### With HSQLDB Manager
 - Create a table and test some SQL    
 In the sql-window of the gui, enter the following command (adapt the table-structure to your needs):
     ```sql
