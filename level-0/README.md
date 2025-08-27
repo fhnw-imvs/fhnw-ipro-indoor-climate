@@ -1,7 +1,7 @@
 # Level 0: Getting started
 
 ## Schedule
-To be updated.
+To manage your time, update this schedule.
 
 ```mermaid
 gantt
