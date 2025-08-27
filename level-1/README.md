@@ -24,9 +24,9 @@ To achieve the goals, use these blocks.
 - [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
 - [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
+- [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
 - [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
 - [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
-- [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
 
 ### Get a Microbit hardware kit
 Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
