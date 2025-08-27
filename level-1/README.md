@@ -204,17 +204,7 @@ A GUI opens, showing a connection to the server running on localhost.
 	```
 
 ### Read data from a database with SQL
-#### With HSQLDB Manager
-- Start the gui and connect
-Run the following command:
-   ```md
-   C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.util.DatabaseManagerSwing  \
-                  --url jdbc:hsqldb:hsql://localhost --user SA
-   ```
-   Alternatively, adapt und run script `bin\runManagerSwing.bat`.
-   If successfull, a gui opens, showing a connection to the server running on localhost.
-
-	You can now read data:
+- Read data.
     ```sql
 	SELECT * FROM DATA;
 	```
