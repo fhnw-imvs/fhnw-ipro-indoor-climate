@@ -152,25 +152,20 @@ Got an error? Check these tips.
 
 #### With HSQLDB
 
-- Install hsqldb
-   - Download latest version of hsqldb from [HSQLDB](https://hsqldb.org)
-   something like hsqldb-2.7.*.zip
-
-   - Extract the archive, e.g. into `C:\hsqldb` 
-     ```md
-     hsqldb/
+- Install the latest version of hsqldb from [HSQLDB](https://hsqldb.org)
+- Extract the archive, e.g. e.g. hsqldb-2.7.*.zip, into `C:\hsqldb` 
+  ```md
+  hsqldb/
      |- lib/        (contains hsqldb.jar)
      |- bin/        (scripts to start server, tools, etc.)
      |- doc/        (documentation)
-	 ```
+  ```
 
-- Start the hsqldb-service
-Run the following command:
+- To start the _hsqldb-service_ run the following command:
    ```md
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
    ```
-   Alternatively, adapt und run script `bin\runServer.bat`.    
-   Server can be stopped via `[Ctrl]+[C]`. For the next step, the server should be running.
+   Or adapt and run `bin\runServer.bat`. Stop with `CTRL-C`.
 
 ### Run a database client to test SQL
 #### With HSQLDB Manager
