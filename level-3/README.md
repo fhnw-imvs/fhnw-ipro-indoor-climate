@@ -17,6 +17,7 @@ To finish the level, achieve these goals.
 To achieve the goals, use these blocks.
 
 - [ ] Set up the Mu editor, for CircuitPython
+- [ ] [Get a FeatherS3 hardware kit](#get-a-feathers3-hardware-kit)
 - [ ] [Use the FeatherS3 with CircuitPython](#use-the-feathers3-with-circuitpython)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
@@ -24,6 +25,14 @@ To achieve the goals, use these blocks.
 - [ ] ...
 - [ ] ...
 - [ ] ...
+
+### Get a FeatherS3 hardware kit
+Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
+- FeatherS3
+- USB-C cable (or use your own)
+- Grove adapter for Feather
+- Grove CO2 sensor
+- Grove cable
 
 ### Use the FeatherS3 with CircuitPython
 Here's an [introduction to Microcontrollers](https://github.com/tamberg/circuitpython-workshop) with [CircuitPython](https://circuitpython.org).
