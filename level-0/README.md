@@ -4,7 +4,7 @@ gantt
     dateFormat YYYY-MM-DD
     tickInterval 1day
     excludes Saturday, Sunday
-    Level 0 :t0, 2025-08-25, 2d
+    Level 0 :t0, 2025-09-01, 2d
     Level 1 :t1, after t0, 2d
     Level 2 :t2, after t1, 2d
 ```
