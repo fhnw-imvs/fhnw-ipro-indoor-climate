@@ -151,7 +151,7 @@ Got an error? Check these tips.
 
 #### With HSQLDB
 
-1. Install hsqldb
+- Install hsqldb
    - Download latest version of hsqldb from [HSQLDB](https://hsqldb.org)
    something like hsqldb-2.7.*.zip
 
@@ -163,7 +163,7 @@ Got an error? Check these tips.
      |- doc/        (documentation)
 	 ```
 
-2. Start the hsqldb-service
+- Start the hsqldb-service
 Run the following command:
    ```md
    C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
