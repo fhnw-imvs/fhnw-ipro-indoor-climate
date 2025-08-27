@@ -147,6 +147,30 @@ Got an error? Check these tips.
 ### Open a CSV file as a spreadsheet
 ...
 
+### Run a database as a local service
+
+#### With HSQLDB
+
+1. Install hsqldb
+   - Download latest version of hsqldb from [HSQLDB](https://hsqldb.org)
+   something like hsqldb-2.7.*.zip
+
+   - Extract the archive, e.g. into `C:\hsqldb` 
+     ```md
+     hsqldb/
+     |- lib/        (contains hsqldb.jar)
+     |- bin/        (scripts to start server, tools, etc.)
+     |- doc/        (documentation)
+	 ```
+
+2. Start the hsqldb-service
+Run the following command:
+   ```md
+   C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
+   ```
+   Alternatively, adapt und run script `bin\runServer.bat`.    
+   Server can be stopped via `[Ctrl]+[C]`. For the next step, the server should be running.
+
 ### Store data into a database with SQL
 #### With HSQLDB Manager
 - Start the gui and connect
@@ -193,31 +217,7 @@ Run the following command:
 	You can now read data:
     ```sql
 	SELECT * FROM DATA;
-	```	
-
-### Run a database as a local service
-
-#### With HSQLDB
-
-1. Install hsqldb
-   - Download latest version of hsqldb from [HSQLDB](https://hsqldb.org)
-   something like hsqldb-2.7.*.zip
-
-   - Extract the archive, e.g. into `C:\hsqldb` 
-     ```md
-     hsqldb/
-     |- lib/        (contains hsqldb.jar)
-     |- bin/        (scripts to start server, tools, etc.)
-     |- doc/        (documentation)
-	 ```
-
-2. Start the hsqldb-service
-Run the following command:
-   ```md
-   C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
-   ```
-   Alternatively, adapt und run script `bin\runServer.bat`.    
-   Server can be stopped via `[Ctrl]+[C]`. For the next step, the server should be running.
+	```
 
 ## Side quests
 To learn more, consider these side quests.
