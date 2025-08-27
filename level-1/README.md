@@ -148,35 +148,6 @@ Got an error? Check these tips.
 ...
 
 ### Store data into a database with SQL
-...
-
-### Read data from a database with SQL
-...
-
-### Run a database as a local service
-
-#### HSQLDB database
-
-1. Install hsqldb
-   - Download latest version of hsqldb from [HSQLDB](https://hsqldb.org)
-   something like hsqldb-2.7.*.zip
-
-   - Extract the archive, e.g. into `C:\hsqldb` 
-     ```md
-     hsqldb/
-     |- lib/        (contains hsqldb.jar)
-     |- bin/        (scripts to start server, tools, etc.)
-     |- doc/        (documentation)
-	 ```
-
-2. Start the hsqldb-service
-Run the following command:
-   ```md
-   C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
-   ```
-   Alternatively, adapt und run script `bin\runServer.bat`.    
-   Server can be stopped via `[Ctrl]+[C]`. For the next step, the server should be running.
-
 3. Start the gui and connect
 Run the following command:
    ```md
@@ -203,9 +174,51 @@ In the sql-window of the gui, enter the following command (adapt the table-struc
     INSERT INTO DATA (VALUE) VALUES (23);
     INSERT INTO DATA (VALUE) VALUES (22);
     COMMIT;
-	SELECT * FROM DATA;
 	```	
   To drop the table use `DROP TABLE DATA;` To close the gui, use `File - Exit`.
+
+
+### Read data from a database with SQL
+3. Start the gui and connect
+Run the following command:
+   ```md
+   C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.util.DatabaseManagerSwing  \
+                  --url jdbc:hsqldb:hsql://localhost --user SA
+   ```
+   Alternatively, adapt und run script `bin\runManagerSwing.bat`.
+   If successfull, a gui opens, showing a connection to the server running on localhost.
+
+	You can add some data and read it:
+    ```sql
+    INSERT INTO DATA (VALUE) VALUES (23);
+    INSERT INTO DATA (VALUE) VALUES (22);
+    COMMIT;
+	SELECT * FROM DATA;
+	```	
+
+### Run a database as a local service
+
+#### With HSQLDB
+
+1. Install hsqldb
+   - Download latest version of hsqldb from [HSQLDB](https://hsqldb.org)
+   something like hsqldb-2.7.*.zip
+
+   - Extract the archive, e.g. into `C:\hsqldb` 
+     ```md
+     hsqldb/
+     |- lib/        (contains hsqldb.jar)
+     |- bin/        (scripts to start server, tools, etc.)
+     |- doc/        (documentation)
+	 ```
+
+2. Start the hsqldb-service
+Run the following command:
+   ```md
+   C:\hsqldb> java -cp lib\hsqldb.jar org.hsqldb.Server 
+   ```
+   Alternatively, adapt und run script `bin\runServer.bat`.    
+   Server can be stopped via `[Ctrl]+[C]`. For the next step, the server should be running.
 
 ## Side quests
 To learn more, consider these side quests.
