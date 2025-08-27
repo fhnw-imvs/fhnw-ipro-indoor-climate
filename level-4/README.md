@@ -1,4 +1,6 @@
 # Level 4: Scaling up and out
+<kbd><img src="sketch.png" height="240"/></kbd>
+
 ## Goals
 To finish the level, achieve these goals.
 
