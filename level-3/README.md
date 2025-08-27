@@ -28,11 +28,11 @@ To achieve the goals, use these blocks.
 
 ### Get a FeatherS3 hardware kit
 Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
-- FeatherS3
-- USB-C cable (or use your own)
-- Grove adapter for Feather
-- Grove CO2 sensor
-- Grove cable
+- [FeatherS3 board](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Microcontrollers/UnexpectedMaker_FeatherS3_ESP32-S3.md)
+- [USB-C cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/USB-C_Cable_1m.md) (or use your own)
+- [Grove adapter for Feather](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Adapters/Feather_to_Grove_Adapter.md)
+- [Grove CO2 sensor](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_CO2_Temperature_Humidity_Sensor_SCD30.md)
+- [Grove cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md)
 
 ### Use the FeatherS3 with CircuitPython
 Here's an [introduction to Microcontrollers](https://github.com/tamberg/circuitpython-workshop) with [CircuitPython](https://circuitpython.org).
