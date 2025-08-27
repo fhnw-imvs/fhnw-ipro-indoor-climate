@@ -152,8 +152,8 @@ Got an error? Check these tips.
 
 #### With HSQLDB
 
-- Install the latest version of hsqldb from [HSQLDB](https://hsqldb.org)
-- Extract the archive, e.g. e.g. hsqldb-2.7.*.zip, into `C:\hsqldb` 
+- Install the latest version of _hsqldb_ from [HSQLDB](https://hsqldb.org)
+- Extract the archive, e.g. hsqldb-2.7.*.zip, into `C:\hsqldb` 
   ```md
   hsqldb/
      |- lib/        (contains hsqldb.jar)
