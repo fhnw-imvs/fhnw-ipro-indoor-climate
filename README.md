@@ -38,7 +38,7 @@ Contact thomas.amberg@fhnw.ch to get an MS Teams invite.
 Unless noted otherwise.
 
 * Source code examples in this repository are declared Public Domain [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
-* Content by [T. Amberg](https://www.fhnw.ch/en/people/thomas-amberg), FHNW is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* Content by [A. Kennel(https://www.fhnw.ch/de/personen/andrea-kennel)], [G. Deck](https://www.fhnw.ch/en/people/klaus-georg-deck), [T. Amberg](https://www.fhnw.ch/en/people/thomas-amberg), FHNW is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Publishing your own code?
 
