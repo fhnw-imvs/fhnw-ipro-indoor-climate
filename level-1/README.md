@@ -28,6 +28,7 @@ To achieve the goals, use these blocks.
 - [ ] [Use a database client to test SQL](#use-a-database-client-to-test-sql)
 - [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
 - [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
+- [ ] [Visualize data in a visual component](#visualize-data-in-a-visual-component)
 
 ### Get a Microbit hardware kit
 Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
@@ -223,12 +224,42 @@ A GUI opens, showing a connection to the service running on localhost.
 
 #### With Python
 ...
-
 #### With Java
 ...
 
 #### Result
 ...
+
+### Visualize data in a visual component
+#### With Python
+Use Python program to show data (list of values) once:
+```md
+import matplotlib.pyplot as plt
+import random
+
+# ---- Plot setup ----
+fig, ax = plt.subplots()
+
+# generate some random values between 120 and 140
+values = [random.randint(120, 140) for _ in range(20)]
+
+ax.plot(range(len(values)), values, marker="o")
+ax.set_title("Show 20 random values (only once)")
+ax.set_xlabel("row #")
+ax.set_ylabel("ID")
+
+plt.show()
+
+print("finish")
+```
+Use the function `matplotlib.animation.FuncAnimation` to refresh the graph with newly generated values.
+
+
+#### With Java
+...
+
+#### Result
+The program opens a window showing a plot (and refreshing it)
 
 ## Side quests
 To learn more, consider these side quests.
