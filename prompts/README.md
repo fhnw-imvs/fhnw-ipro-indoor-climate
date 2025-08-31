@@ -5,7 +5,7 @@ A collection of "AI" tool prompts used in this project.
 ```console
 $ REPO_PATH=$(git rev-parse --show-toplevel)
 $ echo $REPO_PATH
-# e.g. fhnw-ipro-indoor-climate-USER
+# e.g. .../fhnw-ipro-indoor-climate-USER
 ```
 
 ### Save prompts or entire sessions
