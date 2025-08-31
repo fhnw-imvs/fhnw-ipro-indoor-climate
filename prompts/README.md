@@ -2,7 +2,7 @@
 A collection of "AI" tool prompts used in this project.
 
 ## Save prompts or entire sessions
-- Download your "AI" tool prompt, session or audit log
+- Download your "AI" tool prompt or session into this directory
 - Rename the file to include a UTC timestamp
   e.g. [duck.ai_20250829T094500Z.txt](duck.ai_20250829T094500Z.txt)
 
