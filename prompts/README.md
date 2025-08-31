@@ -1,13 +1,6 @@
 # Prompts
 A collection of "AI" tool prompts used in this project.
 
-### Set an env variable for this repository
-```console
-$ REPO_PATH=$(git rev-parse --show-toplevel)
-$ echo $REPO_PATH
-# e.g. .../fhnw-ipro-indoor-climate-USER
-```
-
 ### Save prompts or entire sessions
 - Download your "AI" tool prompts or session logs into the _prompts_ directory
 - Rename the file to include a UTC timestamp
@@ -26,7 +19,8 @@ $ echo $REPO_PATH
 // based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
 
-### See a prompt from anywhere
+### See a prompt from where you are
 ```console
+$ REPO_PATH=$(git rev-parse --show-toplevel)
 $ cat $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
