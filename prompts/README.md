@@ -20,6 +20,7 @@ A collection of "AI" tool prompts used in this project.
 ```
 
 ### See a prompt from where you are
+Assuming your current directory is inside the repository.
 ```console
 $ REPO_PATH=$(git rev-parse --show-toplevel)
 $ cat $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
