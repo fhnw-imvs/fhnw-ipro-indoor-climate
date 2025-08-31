@@ -3,13 +3,13 @@
 ## Mark code as based on a prompt
 ### With Python
 ```python
-# License https://creativecommons.org/publicdomain/zero/1.0
+# License ...
 # based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
 ```
 
 ### With Java
 ```java
-// License https://creativecommons.org/publicdomain/zero/1.0
+// License ...
 // based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
 ```
 
