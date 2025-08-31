@@ -7,7 +7,7 @@ A collection of "AI" tool prompts used in this project.
   e.g. [2025-08-29T09-45-00Z.txt](2025-08-29T09-45-00Z.txt)
 
 ### Mark code as based on a prompt
-To attribute "AI" tool use in a source file.
+To attribute "AI" tool use in a source file, for transparency and academic integrity.
 
 #### With Python
 ```python
