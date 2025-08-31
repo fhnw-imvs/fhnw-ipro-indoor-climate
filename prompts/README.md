@@ -10,7 +10,7 @@ $ echo $REPO_PATH
 ```
 
 ### Save prompts or entire sessions
-- Download your "AI" tool prompts or session logs into this directory
+- Download your "AI" tool prompts or session logs into the _prompts_ directory
 - Rename the file to include a UTC timestamp
   e.g. [2025-08-29T09-45-00Z.txt](2025-08-29T09-45-00Z.txt)
 
