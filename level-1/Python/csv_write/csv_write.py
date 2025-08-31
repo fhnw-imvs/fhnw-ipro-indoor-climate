@@ -1,5 +1,5 @@
 # License https://creativecommons.org/publicdomain/zero/1.0
-# based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt #1
+# based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
 
 import csv
 
