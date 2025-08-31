@@ -1,6 +1,9 @@
 # Prompts
 A collection of prompts used in this project.
 
+## Save prompts or entire sessions 
+E.g. [duck.ai_20250829T094500Z.txt](duck.ai_20250829T094500Z.txt)
+
 ## Mark code as based on a prompt
 ### With Python
 ```python
