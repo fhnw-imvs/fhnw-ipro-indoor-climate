@@ -1,4 +1,5 @@
 # Prompts
+A collection of prompts used in this project.
 
 ## Mark code as based on a prompt
 ### With Python
