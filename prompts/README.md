@@ -5,7 +5,8 @@ A collection of "AI" tool prompts used in this project.
 ```console
 $ cd ..
 $ REPO_PATH=${PWD}
-$ echo $REPO_PATH # e.g. fhnw-ipro-indoor-climate-USER
+$ echo $REPO_PATH
+# e.g. fhnw-ipro-indoor-climate-USER
 ```
 
 ### Save prompts or entire sessions
