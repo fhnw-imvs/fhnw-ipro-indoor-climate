@@ -1,7 +1,7 @@
 # Prompts
 A collection of "AI" tool prompts used in this project.
 
-### Set $REPO_PATH to work with prompts
+### Set an env variable for this repo
 ```console
 $ cd ..
 $ REPO_PATH=${PWD}
