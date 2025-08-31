@@ -10,7 +10,7 @@ A collection of "AI" tool prompts used in this project.
 To attribute "AI" tool use in a source file.
 
 #### With Python
-e.g. [csv_write.py](../level-1/Python/csv_write/csv_write.py)
+e.g. [csv_write.py](../level-1/Python/csv_write/csv_write.py#L2)
 
 ```python
 # License ...
@@ -18,7 +18,7 @@ e.g. [csv_write.py](../level-1/Python/csv_write/csv_write.py)
 ```
 
 #### With Java
-e.g. [Program.java](../level-1/Java/csv_write/src/main/java/Program.java)
+e.g. [Program.java](../level-1/Java/csv_write/src/main/java/Program.java#L2)
 
 ```java
 // License ...
