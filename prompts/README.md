@@ -2,7 +2,7 @@
 A collection of "AI" tool prompts used in this project.
 
 ## Save prompts or entire sessions
-- Download your "AI" tool prompts or session logs into the [prompts](prompts) directory
+- Download your "AI" tool prompts or session logs into the top-level [prompts](.) directory
 - Rename the file to include a UTC timestamp
   e.g. [2025-08-29T09-45-00Z.txt](2025-08-29T09-45-00Z.txt)
 
