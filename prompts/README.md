@@ -10,20 +10,18 @@ A collection of "AI" tool prompts used in this project.
 To attribute "AI" tool use in a source file.
 
 #### With Python
-e.g. [csv_write.py](../level-1/Python/csv_write/csv_write.py#L2)
-
 ```python
 # License ...
 # based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
+e.g. [csv_write.py](../level-1/Python/csv_write/csv_write.py#L2)
 
 #### With Java
-e.g. [Program.java](../level-1/Java/csv_write/src/main/java/Program.java#L2)
-
 ```java
 // License ...
 // based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
+e.g. [Program.java](../level-1/Java/csv_write/src/main/java/Program.java#L2)
 
 ### See a prompt from where you are
 Assuming your current directory is inside the repository.
