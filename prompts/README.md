@@ -3,8 +3,7 @@ A collection of "AI" tool prompts used in this project.
 
 ### Set an env variable for this repository
 ```console
-$ cd ..
-$ REPO_PATH=${PWD}
+$ REPO_PATH=$(git rev-parse --show-toplevel)
 $ echo $REPO_PATH
 # e.g. fhnw-ipro-indoor-climate-USER
 ```
