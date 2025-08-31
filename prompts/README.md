@@ -10,13 +10,13 @@ A collection of "AI" tool prompts used in this project.
 ### With Python
 ```python
 # License ...
-# based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
+# based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
 
 ### With Java
 ```java
 // License ...
-// based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
+// based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
 
 ## Set $REPO_PATH to find prompts
@@ -27,5 +27,5 @@ $ echo $REPO_PATH
 
 ## See a prompt from anywhere
 ```console
-$ cat $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
+$ cat $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
