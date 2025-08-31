@@ -1,5 +1,5 @@
 // License https://creativecommons.org/publicdomain/zero/1.0
-// based on $REPO_PATH/prompts/duck.ai_20250829T094500Z.txt
+// based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 
 import java.io.FileWriter;
 import java.io.IOException;
