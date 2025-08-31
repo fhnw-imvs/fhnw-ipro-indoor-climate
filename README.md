@@ -29,7 +29,7 @@ Each level has side quests, things to try, directions to explore.
 You choose as you like, we provide Python and Java examples.
 
 ## "AI" tools
-No "AI" needed, you're welcome to learn/think for yourself :)
+No "AI" needed, you're welcome to learn / think for yourself :)
 
 If you use any, log your prompts, e.g. code [based on](https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate/blob/main/level-1/Python/csv_write/csv_write.py#L2) a [prompt](https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate/blob/main/prompts/duck.ai_2025-08-29_11-41-09.txt).
 
