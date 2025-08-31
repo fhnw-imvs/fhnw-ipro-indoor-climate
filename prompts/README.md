@@ -7,13 +7,19 @@ A collection of "AI" tool prompts used in this project.
   e.g. [2025-08-29T09-45-00Z.txt](2025-08-29T09-45-00Z.txt)
 
 ### Mark code as based on a prompt
+To attribute "AI" tool use in a source file.
+
 #### With Python
+e.g. [csv_write.py](level-1/Python/csv_write/csv_write.py)
+
 ```python
 # License ...
 # based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```
 
 #### With Java
+e.g. [Program.java](level-1/Java/csv_write/src/main/java/Program.java)
+
 ```java
 // License ...
 // based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
