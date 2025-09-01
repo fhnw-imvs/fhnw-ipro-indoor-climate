@@ -150,7 +150,10 @@ Got an error? Check these tips.
 ...
 
 ### Open a CSV file as a spreadsheet
-...
+#### With GSheet
+- Start a spreadsheet
+- File > Import > Upload > Browse
+- Select, e.g. data.csv > Upload > Import data
 
 ### Run a database as a local service
 
