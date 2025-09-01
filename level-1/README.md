@@ -35,7 +35,7 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 
 <kbd><img src="hardware.png" width="540"/></kbd>
 
-- Microbit (or use your own)
+- Microbit (or use your own; not shown here)
 - Micro USB cable (or use your own)
 - Grove adapter for Microbit
 - Grove CO2 sensor
