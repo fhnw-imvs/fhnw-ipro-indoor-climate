@@ -28,6 +28,9 @@ To achieve the goals, use these blocks.
 
 ### Get a FeatherS3 hardware kit
 Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
+
+<kbd><img src="https://live.staticflickr.com/65535/54758010076_5ff176fcb0_z.jpg" width="540"/></kbd>
+
 - [FeatherS3 board](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Microcontrollers/UnexpectedMaker_FeatherS3_ESP32-S3.md)
 - [USB-C cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/USB-C_Cable_1m.md) (or use your own)
 - [Feather to Grove adapter](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Adapters/Feather_to_Grove_Adapter.md)
