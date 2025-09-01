@@ -22,7 +22,7 @@ e.g. [csv_write.py](../level-1/Python/csv_write/csv_write.py#L2)
 ```
 e.g. [Program.java](../level-1/Java/csv_write/src/main/java/Program.java#L2)
 
-### See a prompt from where you are
+### Access a prompt from any subdirectory
 Assuming your current directory is inside the repository.
 ```console
 $ REPO_PATH=$(git rev-parse --show-toplevel)
