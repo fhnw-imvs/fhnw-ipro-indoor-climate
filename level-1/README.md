@@ -38,8 +38,8 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 - Microbit (or use your own; not shown here)
 - Micro USB cable (or use your own)
 - Grove adapter for Microbit
-- Grove CO2 sensor
-- Grove cable
+- [Grove CO2 sensor](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_CO2_Temperature_Humidity_Sensor_SCD30.md)
+- [Grove cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md)
 
 ### Use the Microbit with MakeCode
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
