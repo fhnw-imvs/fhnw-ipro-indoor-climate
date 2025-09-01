@@ -152,9 +152,9 @@ Got an error? Check these tips.
 ### Open a CSV file as a spreadsheet
 #### With GSheet
 - Open [GSheet](https://docs.google.com/spreadsheets)
-- Start a spreadsheet
-- File > Import > Upload > Browse
-- Select, e.g. data.csv > Upload > Import data
+- _Start a spreadsheet_
+- _File_ > _Import_ > _Upload_ > _Browse_
+- Select, e.g. _data.csv_ > _Upload_ > _Import data_
 
 ### Run a database as a local service
 
