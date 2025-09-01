@@ -33,7 +33,7 @@ To achieve the goals, use these blocks.
 ### Get a Microbit hardware kit
 Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-imvs/fhnw-iot-library)
 
-<kbd><img src="hardware.png" width="540"/></kbd>
+<kbd><img src="hardware.png" width="420"/></kbd>
 
 - Microbit (or use your own; not shown here)
 - [Micro USB cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/USB-A_Cable_1m_to_Micro.md) (or use your own)
