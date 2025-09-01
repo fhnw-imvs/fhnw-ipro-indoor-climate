@@ -1,6 +1,8 @@
 # FHNW (ipro) Indoor Climate
 FHNW (ipro) is a mandatory individual software project, worth 6 ETCS.
 
+> Note: Work in progress. Interested? Contact thomas.amberg@fhnw.ch
+
 ## Overview
 In [this project](http://www.tamberg.org/fhnw/2025/hs/IproIndoorClimate.pdf) you will use CO2 sensors to measure indoor climate.
 
