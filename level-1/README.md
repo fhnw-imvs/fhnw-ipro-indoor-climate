@@ -36,7 +36,7 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 <kbd><img src="hardware.png" width="540"/></kbd>
 
 - Microbit (or use your own; not shown here)
-- Micro USB cable (or use your own)
+- [Micro USB cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/USB-A_Cable_1m_to_Micro.md) (or use your own)
 - Grove adapter for Microbit
 - [Grove CO2 sensor](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_CO2_Temperature_Humidity_Sensor_SCD30.md)
 - [Grove cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md)
