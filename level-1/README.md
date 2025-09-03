@@ -127,9 +127,9 @@ $ java -cp ./src:target Program
 #### Result
 ASCII data sent over USB shows up, e.g.
 ```console
-(485.480316162109)
-(485.607025146484)
-(485.632629394531)
+485.480316162109
+485.607025146484
+485.632629394531
 ...
 ```
 
