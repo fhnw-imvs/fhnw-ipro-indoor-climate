@@ -46,7 +46,8 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Set an environment variable $REPO_PATH
-> Note: Some paths in this project contain this variable
+To work with absolute paths based on the repository path.
+
 - Set a temporary environment variable
     ```console
     $ REPO_PATH=$(git rev-parse --show-toplevel)
