@@ -50,7 +50,7 @@ To achieve the goals, use these blocks.
     ```console
     $ REPO_PATH=$(git rev-parse --show-toplevel)
     ```
-- Show the content of _$ECHO_PATH_
+- Show the content of _$REPO_PATH_
     ```console
     $ echo $REPO_PATH
     ```
