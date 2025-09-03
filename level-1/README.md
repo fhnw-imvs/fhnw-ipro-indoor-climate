@@ -147,6 +147,30 @@ Got an error? Check these tips.
     ```
 
 ### Store data in CSV format into a file
+#### With Python
+See [csv_write.py](Python/csv_write/csv_write.py).
+```Python
+import csv
+
+data = [
+    ["City", "ZIP Code"],
+    ["Bern", 3000],
+    ["Basel", 4000],
+    ["Zürich", 8000],
+]
+
+with open("data.csv", mode='w', newline='\n') as file:
+    writer = csv.writer(file)
+    writer.writerows(data)
+```
+
+Run the program.
+```console
+$ cd level-1/Python/csv_write
+$ python csv_write.py
+```
+
+#### With Java
 ...
 
 ### Open a CSV file as a spreadsheet
