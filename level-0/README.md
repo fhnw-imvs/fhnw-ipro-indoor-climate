@@ -45,15 +45,15 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Use a venv virtual environment with Python
-- Install a _venv_ (once)
+- Install a project-specific _venv_ (once)
     ```console
     $ cd $REPO_PATH
     $ python3 -m venv venv
     ```
-- Activate the _venv_
+- Activate the _venv_ (to work with Python)
     ```console
     $ source venv/bin/activate
-    (venv) $ python ...
+    (venv) $ python --version
     ```
 - Deactivate the _venv_
     ```console
