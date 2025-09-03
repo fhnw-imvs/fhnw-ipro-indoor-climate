@@ -110,8 +110,16 @@ Commit and push to store and backup your project.
 #### With Terminal (on MacOS, Linux)
 - Install Java, e.g. [the OpenJDK version](https://openjdk.org/)
 - Make sure _javac_ and _java_ are installed
+    ```console
+    $ javac --version
+    $ java -- version
+    ```
 - Use the provided shell scripts for Java
 - Make sure _python3_ and _pip3_ are installed
+    ```console
+    $ python3 --version
+    $ pip3 -- version
+    ```
 - Use the provided commands for Python
 
 ### Set an environment variable $REPO_PATH
