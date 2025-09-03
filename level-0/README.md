@@ -21,7 +21,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
-- [ ] Set up Github and git, on your computer
+- [ ] [Set up Github and git for version control](#set-up-github-and-git-for-version-control)
 - [ ] [Create a private copy of this repository](#create-a-private-copy-of-this-repository)
 - [ ] [Commit and push to your copy of the repo](#commit-and-push-to-your-copy-of-the-repo)
 - [ ] [Use the terminal or cmd, to work with files](#use-the-terminal-or-cmd-to-work-with-files)
@@ -32,6 +32,14 @@ To achieve the goals, use these blocks.
 - [ ] [Keep a project log to take notes](#keep-a-project-log-to-take-notes)
 - [ ] [Learn how to make a prototype](#learn-how-to-make-a-prototype)
 - [x] [Check done items off the list](#check-done-items-off-the-list)
+
+### Set up Github and git for version control
+- Sign up for a free Github account
+- Install [git](https://git-scm.com/downloads)
+- Make sure _git__ works
+    ```console
+    $ git --version
+    ```
 
 ### Create a private copy of this repository
 > Note: Do not _fork_ the respository
