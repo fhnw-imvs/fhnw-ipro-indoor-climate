@@ -26,6 +26,7 @@ To achieve the goals, use these blocks.
 - [ ] Commit and push to your copy of the repo
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Set up a Java or Python IDE, e.g. VS Code
+- [ ] [Set an environment variable for $REPO_PATH](#set-an-environment-variable-for-repo_path)
 - [ ] [Use a venv virtual environment with Python](#use-a-venv-virtual-environment-with-python)
 - [ ] [Plan and update a project schedule](#plan-and-update-a-project-schedule)
 - [ ] [Keep a project log to take notes](#keep-a-project-log-to-take-notes)
@@ -43,6 +44,16 @@ To achieve the goals, use these blocks.
     ```
 - Choose visibility _Private_
 - Click _Create repository_
+
+### Set an environment variable for $REPO_PATH
+- Set a temporary environment variable
+    ```console
+    $ REPO_PATH=$(git rev-parse --show-toplevel)
+    ```
+- Show the content of _$ECHO_PATH_
+    ```console
+    $ echo $REPO_PATH
+    ```
 
 ### Use a venv virtual environment with Python
 To work with Python, use a [virtual environment](https://docs.python.org/3/library/venv.html).
