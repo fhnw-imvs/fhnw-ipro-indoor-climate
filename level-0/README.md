@@ -33,6 +33,7 @@ To achieve the goals, use these blocks.
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
 ### Create a private copy of this repository
+> Note: Do not _fork_ the respository
 - Visit https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate
 - Click _Use this template_
 - Select _Create new repository_
