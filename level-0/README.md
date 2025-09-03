@@ -108,9 +108,9 @@ Commit and push to store and backup your project.
 - Set up [VS Code for Python](https://code.visualstudio.com/docs/languages/python)
 
 #### With Terminal (on MacOS, Linux)
-> Note: This is the bare bones way
- 
-- Use _nano_ or any text editor
+> Note: This is the bare bones way, no magic!
+
+- Use _nano_ or any text editor to edit code
 - Install Java, e.g. [the OpenJDK version](https://openjdk.org/)
 - Make sure _javac_ and _java_ are installed
     ```console
