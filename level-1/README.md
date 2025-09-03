@@ -169,7 +169,7 @@ $ python csv_write.py
 ...
 
 #### Result
-Data stored in _data.csv_
+Data is stored in _data.csv_
 ```console
 $ cat data.csv
 ...
