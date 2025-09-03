@@ -91,6 +91,10 @@ Commit and push to store and backup your project.
     $ nano my.txt
     ```
     (CTRL-X, Y, ENTER to save changes)
+- Remove a file
+    ```console
+    $ rm my.txt
+    ```
 
 ### Set an environment variable $REPO_PATH
 To work with absolute paths based on the repository path.
