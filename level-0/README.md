@@ -48,6 +48,10 @@ To achieve the goals, use these blocks.
 ### Commit and push to your copy of the repo
 Commit and push to store and backup your project.
 
+- Check the status of the repo
+    ```console
+    $ git status
+    ```
 - Add a new file, e.g. _my.txt_
     ```console
     $ git add my.txt
