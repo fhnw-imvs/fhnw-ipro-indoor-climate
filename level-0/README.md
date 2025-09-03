@@ -47,6 +47,7 @@ To achieve the goals, use these blocks.
 ### Use a venv virtual environment with Python
 - Install a _venv_ (once)
     ```console
+    $ cd $REPO_PATH
     $ python3 -m venv venv
     ```
 - Activate the _venv_
