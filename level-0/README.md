@@ -48,6 +48,8 @@ To achieve the goals, use these blocks.
 ### Set an environment variable $REPO_PATH
 To work with absolute paths based on the repository path.
 
+> Note: In most cases, relative paths are preferred
+
 - Set a temporary environment variable
     ```console
     $ REPO_PATH=$(git rev-parse --show-toplevel)
