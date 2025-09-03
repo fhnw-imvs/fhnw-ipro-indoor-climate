@@ -148,7 +148,7 @@ Got an error? Check these tips.
 
 ### Store data in CSV format into a file
 #### With Python
-See [csv_write.py](Python/csv_write/csv_write.py).
+See [csv_write.py](Python/csv_write/csv_write.py) for full source code.
 ```Python
 import csv
 
