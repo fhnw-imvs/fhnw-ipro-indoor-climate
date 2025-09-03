@@ -45,6 +45,8 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Plan and update a project schedule
+Manage your time.
+
 - Create e.g. a [Gantt chart](https://docs.mermaidchart.com/mermaid-oss/syntax/gantt.html)
 - Find out what to do next
 - See how much time is left
