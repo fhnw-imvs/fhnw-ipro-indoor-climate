@@ -187,7 +187,7 @@ public final class Program {
 ```
 Run the program.
 ```console
-$ cd level-1/Java/serial_read
+$ cd level-1/Java/csv_write
 $ ./clean.sh && ./setup.sh && ./build.sh
 $ java -cp ./src:target Program
 ```
