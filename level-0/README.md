@@ -102,7 +102,7 @@ Commit and push to store and backup your project.
     ```
 
 ### Set up a Java or Python IDE, e.g. VS Code
-- Install the [VS Code editor](https://code.visualstudio.com/download)
+- Install [Visual Studio Code](https://code.visualstudio.com/download)
 - Set up [VS Code for Python](https://code.visualstudio.com/docs/languages/python)
 - Or set up [VS Code for Java](https://code.visualstudio.com/docs/languages/java)
 
