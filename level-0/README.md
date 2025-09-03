@@ -70,10 +70,10 @@ Commit and push to store and backup your project.
     ```
 
 ### Use the terminal or cmd, to work with files
-With cmd (on Win)
+#### With cmd (on Win)
 ...
 
-With Terminal (on MacOS, Linux)
+#### With Terminal (on MacOS, Linux)
 
 - List the current directory
     ```console
