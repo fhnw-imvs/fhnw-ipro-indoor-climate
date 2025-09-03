@@ -163,11 +163,17 @@ Run the program.
 ```console
 $ cd level-1/Python/csv_write
 $ python csv_write.py
-$ cat data.csv
 ```
 
 #### With Java
 ...
+
+#### Result
+Data stored in _data.csv_
+```console
+$ cat data.csv
+...
+```
 
 ### Open a CSV file as a spreadsheet
 #### With GSheet
