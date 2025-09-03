@@ -25,7 +25,7 @@ To achieve the goals, use these blocks.
 - [ ] [Create a private copy of this repository](#create-a-private-copy-of-this-repository)
 - [ ] [Commit and push to your copy of the repo](#commit-and-push-to-your-copy-of-the-repo)
 - [ ] [Use the terminal or cmd, to work with files](#use-the-terminal-or-cmd-to-work-with-files)
-- [ ] [Set up a Java or Python IDE, e.g. VS Code](#set-up-a-java-or-python-ide-e.g.-vs-code)
+- [ ] [Set up a Java or Python IDE, e.g. VS Code](#set-up-a-java-or-python-ide-eg-vs-code)
 - [ ] [Set an environment variable $REPO_PATH](#set-an-environment-variable-repo_path)
 - [ ] [Use a venv virtual environment with Python](#use-a-venv-virtual-environment-with-python)
 - [ ] [Plan and update a project schedule](#plan-and-update-a-project-schedule)
