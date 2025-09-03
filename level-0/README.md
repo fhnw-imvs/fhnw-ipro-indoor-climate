@@ -24,7 +24,7 @@ To achieve the goals, use these blocks.
 - [ ] Set up Github and git, on your computer
 - [ ] [Create a private copy of this repository](#create-a-private-copy-of-this-repository)
 - [ ] [Commit and push to your copy of the repo](#commit-and-push-to-your-copy-of-the-repo)
-- [ ] Use the terminal or cmd, to work with files
+- [ ] [Use the terminal or cmd, to work with files](#use-the-terminal-or-cmd-to-work-with-files)
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] [Set an environment variable $REPO_PATH](#set-an-environment-variable-repo_path)
 - [ ] [Use a venv virtual environment with Python](#use-a-venv-virtual-environment-with-python)
@@ -68,6 +68,29 @@ Commit and push to store and backup your project.
     ```console
     $ git push
     ```
+
+### Use the terminal or cmd, to work with files
+- List the current directory
+    ```console
+    $ ls -l
+    ```
+- Change the current directory
+    ```console
+    $ cd ..
+    ```
+- Check the current path
+    ```console
+    $ pwd
+    ```
+- Read an ASCII file
+    ```console
+    $ cat my.txt
+    ```
+- Write an ASCII file
+    ```console
+    $ nano my.txt
+    ```
+    (CTRL-X, Y, ENTER to save changes)
 
 ### Set an environment variable $REPO_PATH
 To work with absolute paths based on the repository path.
