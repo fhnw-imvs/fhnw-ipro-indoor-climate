@@ -104,8 +104,8 @@ Commit and push to store and backup your project.
 ### Set up a Java or Python IDE, e.g. VS Code
 #### With VS Code (any OS)
 - Install [Visual Studio Code](https://code.visualstudio.com/download)
-- Set up [VS Code for Python](https://code.visualstudio.com/docs/languages/python)
 - Set up [VS Code for Java](https://code.visualstudio.com/docs/languages/java)
+- Set up [VS Code for Python](https://code.visualstudio.com/docs/languages/python)
 
 #### With Terminal (on MacOS, Linux)
 - Install Java, e.g. [the OpenJDK version](https://openjdk.org/)
