@@ -45,21 +45,23 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Use a venv virtual environment with Python
-- Install a project-specific _venv_ (once)
+A virtual environment helps to manage Python versions.
+
+- Install a project-specific _venv_, once
     ```console
     $ cd $REPO_PATH
     $ python3 -m venv venv
     ```
-- Activate the _venv_ (to work with Python)
+- Activate the _venv_, to work with Python
     ```console
     $ source venv/bin/activate
     (venv) $ python --version
     ```
-- Deactivate the _venv_
+- Deactivate the _venv_, to stop working
     ```console
     $ deactivate
     ```
-- Uninstall the _venv_
+- Uninstall the _venv_, to move the project
     ```console
     $ rm -r venv
     ```
