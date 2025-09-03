@@ -168,9 +168,20 @@ $ python csv_write.py
 #### With Java
 See [Program.java](Java/csv_write/src/main/java/Program.java) for full source code.
 ```Java
+import java.io.FileWriter;
+import java.io.IOException;
+
 public final class Program {
     public static void main(String args[]) {
-        ...
+        String[][] data = ...
+
+        try (FileWriter w = new FileWriter("data.csv")) {
+            for (String[] row : data) {
+                String line = String.join(",", row);
+                w.append(line);
+                w.append("\n");
+            }
+        } ...
     }
 }
 ```
