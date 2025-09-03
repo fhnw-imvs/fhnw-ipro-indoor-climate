@@ -105,12 +105,13 @@ Commit and push to store and backup your project.
 #### With VS Code (any OS)
 - Install [Visual Studio Code](https://code.visualstudio.com/download)
 - Set up [VS Code for Python](https://code.visualstudio.com/docs/languages/python)
-- Or set up [VS Code for Java](https://code.visualstudio.com/docs/languages/java)
+- Set up [VS Code for Java](https://code.visualstudio.com/docs/languages/java)
 
 #### With Terminal (on MacOS, Linux)
 - Install Java, e.g. [the OpenJDK version](https://openjdk.org/)
 - Make sure _javac_ and _java_ are installed
-- Use the provided .sh scripts for Java
+- Use the provided shell scripts for Java
+- Make sure _python3_ and _pip3_ are installed
 - Use the provided commands for Python
 
 ### Set an environment variable $REPO_PATH
