@@ -166,7 +166,20 @@ $ python csv_write.py
 ```
 
 #### With Java
-...
+See [Program.java](Java/csv_write/src/main/java/Program.java) for full source code.
+```Java
+public final class Program {
+    public static void main(String args[]) {
+        ...
+    }
+}
+```
+Run the program.
+```console
+$ cd level-1/Java/serial_read
+$ ./clean.sh && ./setup.sh && ./build.sh
+$ java -cp ./src:target Program
+```
 
 #### Result
 Data is stored in _data.csv_
