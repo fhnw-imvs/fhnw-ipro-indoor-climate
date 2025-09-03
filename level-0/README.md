@@ -49,9 +49,12 @@ To achieve the goals, use these blocks.
     ```console
     $ python3 -m venv venv
     ```
-- (De)Activate the environment
+- Activate the environment
     ```console
     $ source venv/bin/activate
+    ```
+- Deactivate it again
+    ```console
     $ deactivate
     ```
 
