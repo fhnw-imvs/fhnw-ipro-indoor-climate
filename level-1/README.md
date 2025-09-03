@@ -152,12 +152,7 @@ See [csv_write.py](Python/csv_write/csv_write.py).
 ```Python
 import csv
 
-data = [
-    ["City", "ZIP Code"],
-    ["Bern", 3000],
-    ["Basel", 4000],
-    ["Zürich", 8000],
-]
+data = ...
 
 with open("data.csv", mode='w', newline='\n') as file:
     writer = csv.writer(file)
@@ -168,6 +163,7 @@ Run the program.
 ```console
 $ cd level-1/Python/csv_write
 $ python csv_write.py
+$ cat data.csv
 ```
 
 #### With Java
