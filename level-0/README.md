@@ -49,7 +49,7 @@ To achieve the goals, use these blocks.
     ```console
     $ python3 -m venv venv
     ```
-- Activate the _venv_ to work
+- Activate the _venv_
     ```console
     $ source venv/bin/activate
     (venv) $ python ...
