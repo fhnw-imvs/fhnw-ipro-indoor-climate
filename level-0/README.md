@@ -49,18 +49,19 @@ To achieve the goals, use these blocks.
     ```console
     $ python3 -m venv venv
     ```
-- Activate the environment
+- Activate the _venv_ to work
     ```console
     $ source venv/bin/activate
+    (venv) $ python ...
     ```
-- Deactivate it again
+- Deactivate the _venv_
     ```console
     $ deactivate
     ```
-
-## Uninstall
-$ rm -r venv
-
+- Uninstall the _venv_
+    ```console
+    $ rm -r venv
+    ```
 
 ### Plan and update a project schedule
 Manage your time.
