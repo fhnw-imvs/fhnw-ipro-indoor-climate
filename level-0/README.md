@@ -34,9 +34,9 @@ To achieve the goals, use these blocks.
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
 ### Set up Github and git for version control
-- Sign up for a free Github account
-- Install [git](https://git-scm.com/downloads)
-- Make sure _git__ works
+- Sign up for a free [Github](https://github.com/) account
+- Install [git version control](https://git-scm.com/downloads)
+- Make sure _git_ works
     ```console
     $ git --version
     ```
