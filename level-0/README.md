@@ -162,7 +162,7 @@ To work with Python, use a [virtual environment](https://docs.python.org/3/libra
     ```
 
 ### Plan and update a project schedule
-Manage your time.
+Manage your time and workload.
 
 - Create e.g. a [Gantt chart](https://docs.mermaidchart.com/mermaid-oss/syntax/gantt.html)
 - Find out what to do next
