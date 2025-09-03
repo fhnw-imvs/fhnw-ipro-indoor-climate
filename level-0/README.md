@@ -109,6 +109,7 @@ Commit and push to store and backup your project.
 
 #### With Terminal (on MacOS, Linux)
 - Install Java, e.g. [the OpenJDK version](https://openjdk.org/)
+- Make sure _javac_ and _java_ are installed
 - Use the provided .sh scripts for Java
 - Use the provided commands for Python
 
