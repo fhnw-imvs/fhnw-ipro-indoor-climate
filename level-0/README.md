@@ -45,7 +45,7 @@ To achieve the goals, use these blocks.
 - Click _Create repository_
 
 ### Use a venv virtual environment with Python
-Use a [virtual environment](https://docs.python.org/3/library/venv.html), to manage Python versions.
+To work with Python, use a [virtual environment](https://docs.python.org/3/library/venv.html).
 
 - Install a project-specific _venv_, once
     ```console
