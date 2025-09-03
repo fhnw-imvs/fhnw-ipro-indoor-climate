@@ -26,7 +26,7 @@ To achieve the goals, use these blocks.
 - [ ] Commit and push to your copy of the repo
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Set up a Java or Python IDE, e.g. VS Code
-- [ ] Use a venv virtual environment with Python
+- [ ] [Use a venv virtual environment with Python](#use-a-venv-virtual-environment-with-python)
 - [ ] [Plan and update a project schedule](#plan-and-update-a-project-schedule)
 - [ ] [Keep a project log to take notes](#keep-a-project-log-to-take-notes)
 - [ ] [Learn how to make a prototype](#learn-how-to-make-a-prototype)
@@ -43,6 +43,21 @@ To achieve the goals, use these blocks.
     ```
 - Choose visibility _Private_
 - Click _Create repository_
+
+### Use a venv virtual environment with Python
+- Install a _venv_ (once)
+    ```console
+    $ python3 -m venv venv
+    ```
+- (De)Activate the environment
+    ```console
+    $ source venv/bin/activate
+    $ deactivate
+    ```
+
+## Uninstall
+$ rm -r venv
+
 
 ### Plan and update a project schedule
 Manage your time.
