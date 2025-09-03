@@ -23,7 +23,7 @@ To achieve the goals, use these blocks.
 
 - [ ] Set up Github and git, on your computer
 - [ ] [Create a private copy of this repository](#create-a-private-copy-of-this-repository)
-- [ ] Commit and push to your copy of the repo
+- [ ] [Commit and push to your copy of the repo](#commit-and-push-to-your-copy-of-the-repo)
 - [ ] Use the terminal or cmd, to work with files
 - [ ] Set up a Java or Python IDE, e.g. VS Code
 - [ ] [Set an environment variable $REPO_PATH](#set-an-environment-variable-repo_path)
@@ -44,6 +44,26 @@ To achieve the goals, use these blocks.
     ```
 - Choose visibility _Private_
 - Click _Create repository_
+
+### Commit and push to your copy of the repo
+Commit and push to store and backup your project.
+
+- Add a new file, e.g. _my.txt_
+    ```console
+    $ git add my.txt
+    ```
+- Commit local changes
+    ```console
+    $ git commit my.txt
+    ```
+- Pull remote changes
+    ```console
+    $ git pull
+    ```
+- Push to upload changes
+    ```console
+    $ git push
+    ```
 
 ### Set an environment variable $REPO_PATH
 To work with absolute paths based on the repository path.
