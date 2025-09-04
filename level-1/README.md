@@ -21,7 +21,7 @@ To achieve the goals, use these blocks.
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
-- [ ] [List the available serial ports](#list-the-available-serial-ports)
+- [ ] [List available devices, serial ports](#list-available-devices-serial-ports)
 - [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
 - [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
