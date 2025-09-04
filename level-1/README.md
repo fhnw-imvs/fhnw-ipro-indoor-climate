@@ -112,9 +112,25 @@ $ python serial_read.py
 #### With Java
 Edit [Program.java](Java/serial_read/src/main/java/Program.java) to set the serial port name.
 ```Java
+import java.io.DataInputStream;
+import gnu.io.NRSerialPort;
+
 public final class Program {
-    public static void main(String args[]) {
-        ...
+    public static void main(String[] args) {
+        String port = "/dev/tty.usbmodem102"; // or "COM3"
+
+        int baudRate = 115200;
+        NRSerialPort serial = new NRSerialPort(port, baudRate);
+        serial.connect();
+
+        DataInputStream ins = new DataInputStream(serial.getInputStream());
+        try {
+            if (ins.available() > 0) {
+			    int b = ins.read();
+			    System.out.print((char) b);
+            }
+        } ...
+        serial.disconnect();
     }
 }
 ```
@@ -122,7 +138,7 @@ Run the program.
 ```console
 $ cd level-1/Java/serial_read
 $ ./clean.sh && ./setup.sh && ./build.sh
-$ java -cp ./src:target Program
+$ ./run.sh
 ```
 
 #### Result
