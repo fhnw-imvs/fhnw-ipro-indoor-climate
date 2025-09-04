@@ -21,6 +21,7 @@ To achieve the goals, use these blocks.
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
 - [ ] [Read ASCII bytes from a serial port](#read-ascii-bytes-from-a-serial-port)
+- [ ] [List available serial ports](#list-available-serial-ports)
 - [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
 - [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
@@ -145,6 +146,18 @@ Got an error? Check these tips.
     ```console
     $ stty sane
     ```
+
+### List available serial ports
+#### With Terminal (on Linux, MacOS)
+```console
+$ ls /dev/tty<TAB>
+```
+
+#### With Python
+...
+
+#### With Java
+...
 
 ### Store data in CSV format into a file
 #### With Python
