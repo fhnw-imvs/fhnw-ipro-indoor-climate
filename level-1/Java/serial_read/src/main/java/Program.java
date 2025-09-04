@@ -1,5 +1,4 @@
 import java.io.DataInputStream;
-import java.io.DataOutputStream;
 import gnu.io.NRSerialPort;
 
 public final class Program {
