@@ -4,7 +4,7 @@ import gnu.io.NRSerialPort;
 
 public final class Program {
     public static void main(String[] args) {
-        String port = "/dev/tty.u..."; // TODO
+        String port = "/dev/tty.usbmodem102"; // TODO
 
         int baudRate = 115200;
         NRSerialPort serial = new NRSerialPort(port, baudRate);
