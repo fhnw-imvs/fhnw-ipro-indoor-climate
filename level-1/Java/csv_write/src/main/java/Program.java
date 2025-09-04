@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public final class Program {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String[][] data = {
             {"City", "ZIP Code"},
             {"Bern", "3000"},
