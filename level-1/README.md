@@ -150,7 +150,7 @@ Got an error? Check these tips.
 ### List available serial ports
 #### With Terminal (on Linux, MacOS)
 ```console
-$ ls /dev/tty<TAB>
+$ ls /dev/{tty,cu}.*
 ```
 
 #### With Python
