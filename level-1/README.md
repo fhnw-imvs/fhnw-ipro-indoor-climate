@@ -147,7 +147,7 @@ Got an error? Check these tips.
     $ stty sane
     ```
 
-### List the available serial ports
+### List available devices, serial ports
 #### With Terminal (on Linux, MacOS)
 ```console
 $ ls /dev/{tty,cu}.*
