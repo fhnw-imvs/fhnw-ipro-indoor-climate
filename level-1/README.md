@@ -135,7 +135,7 @@ public final class Program {
         try (InputStream is = p.getInputStream();
             InputStreamReader isr = new InputStreamReader(is);
             BufferedReader br = new BufferedReader(isr)) {
-            while (true) {
+            while (p.isOpen()) {
                 String line = br.readLine();
                 System.out.println(line);
             }
