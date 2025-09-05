@@ -110,6 +110,15 @@ $ python serial_read.py
 ```
 
 #### With Java
+Install the [jSerialComm](https://github.com/Fazecast/jSerialComm) library.
+```maven
+<dependency>
+  <groupId>com.fazecast</groupId>
+  <artifactId>jSerialComm</artifactId>
+  <version>[2.0.0,3.0.0)</version>
+</dependency>
+```
+
 Edit [Program.java](Java/serial_read/src/main/java/Program.java) to set the serial port name.
 ```Java
 import ...
