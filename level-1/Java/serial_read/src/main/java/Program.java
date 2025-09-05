@@ -1,7 +1,5 @@
-import java.io.BufferedReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.IOException;
+import java.io.BufferedReader; import java.io.InputStream; import java.io.InputStreamReader; import 
+java.io.IOException;
 
 import com.fazecast.jSerialComm.SerialPort;
 
@@ -15,10 +13,10 @@ public final class Program {
         try (InputStream is = p.getInputStream();
             InputStreamReader isr = new InputStreamReader(is);
             BufferedReader br = new BufferedReader(isr)) {
-            while (p.isOpen()) {
+            do {
                 String line = br.readLine();
                 System.out.println(line);
-            }
+            } while (p.isOpen());
         } catch (IOException e){
             e.printStackTrace();
         }
