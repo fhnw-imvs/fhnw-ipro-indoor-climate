@@ -207,8 +207,7 @@ $ python csv_write.py
 #### With Java
 See [Program.java](Java/csv_write/src/main/java/Program.java) for full source code.
 ```Java
-import java.io.FileWriter;
-import java.io.IOException;
+import ...
 
 public final class Program {
     public static void main(String args[]) {
