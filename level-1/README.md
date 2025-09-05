@@ -110,7 +110,7 @@ $ python serial_read.py
 ```
 
 #### With Java
-Install the [jSerialComm](https://github.com/Fazecast/jSerialComm) library.
+Install the [jSerialComm](https://github.com/Fazecast/jSerialComm) library (or call setup.sh).
 ```maven
 <dependency>
   <groupId>com.fazecast</groupId>
