@@ -7,7 +7,7 @@ import com.fazecast.jSerialComm.SerialPort;
 
 public final class Program {
     public static void main(String[] args) {
-        String name = "/dev/tty.usbmodem112302";
+        String name = "/dev/tty.usbmodem102"; // or "COM3"
         SerialPort p = SerialPort.getCommPort(name);
         p.setComPortTimeouts(SerialPort.TIMEOUT_READ_BLOCKING, 1000, 0);
         p.setBaudRate(115200);
