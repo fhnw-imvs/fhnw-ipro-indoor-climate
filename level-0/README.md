@@ -119,7 +119,7 @@ Commit and push to store and backup your project.
 > Note: This is hard mode, no IDE magic!
 
 - Use _nano_ or any text editor to edit code
-- Install Java, e.g. [the OpenJDK version](https://openjdk.org/)
+- Install Java, e.g. [OpenJDK](https://openjdk.org/) or [AWS Corretto](https://aws.amazon.com/corretto/)
 - Make sure _javac_ and _java_ are installed
     ```console
     $ javac --version
