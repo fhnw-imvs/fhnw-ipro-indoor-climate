@@ -1,5 +1,4 @@
 #!/bin/sh
 mkdir target
 mkdir lib
-#curl -Lo lib/x.jar https://github.com/user/project/x.jar
-curl -Lo lib/nrjavaserial-5.2.1.jar https://github.com/NeuronRobotics/nrjavaserial/releases/download/5.2.1/nrjavaserial-5.2.1.jar
+curl -Lo lib/jSerialComm-2.11.2.jar https://github.com/Fazecast/jSerialComm/releases/download/v2.11.2/jSerialComm-2.11.2.jar
