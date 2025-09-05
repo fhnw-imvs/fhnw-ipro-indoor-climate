@@ -142,7 +142,8 @@ public final class Program {
     }
 }
 ```
-Run the program.
+
+Build and run the program.
 ```console
 $ cd level-1/Java/serial_read
 $ ./clean.sh && ./setup.sh && ./build.sh
