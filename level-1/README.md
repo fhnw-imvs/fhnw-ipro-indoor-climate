@@ -122,6 +122,7 @@ Install the [jSerialComm](https://github.com/Fazecast/jSerialComm) library.
 Edit [Program.java](Java/serial_read/src/main/java/Program.java) to set the serial port name.
 ```Java
 import ...
+
 import com.fazecast.jSerialComm.SerialPort;
 
 public final class Program {
