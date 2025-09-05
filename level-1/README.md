@@ -135,10 +135,10 @@ public final class Program {
         try (InputStream is = p.getInputStream();
             InputStreamReader isr = new InputStreamReader(is);
             BufferedReader br = new BufferedReader(isr)) {
-            while (p.isOpen()) {
+            do {
                 String line = br.readLine();
                 System.out.println(line);
-            }
+            } while (p.isOpen());
         } ...
     }
 }
