@@ -1,6 +1,6 @@
 import serial
 
-port = serial.Serial('/dev/tty.usbmodem102') # or 'COM3'
+port = serial.Serial('/dev/tty.u...') # or 'COM3'
 port.baudrate = 115200
 while (port.isOpen()):
     bytes = port.readline()
