@@ -39,6 +39,7 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 - [Grove cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md)
 
 ### Set up the FeatherS3 for CircuitPython
+> Note: Skip these steps, if your board already shows up as _CIRCUITPY_.
 #### FeatherS3 ROM bootloader mode (once)
 To get the FeatherS3 into ROM bootloader mode
 
