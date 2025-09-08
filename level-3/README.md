@@ -17,7 +17,7 @@ To finish the level, achieve these goals.
 To achieve the goals, use these blocks.
 
 - [ ] [Get a FeatherS3 hardware kit](#get-a-feathers3-hardware-kit)
-- [ ] Set up the Mu editor, for CircuitPython
+- [ ] [Set up the Mu editor for CircuitPython](#set-up-the-mu-editor-for-circuitpython)
 - [ ] [Set up the FeatherS3 for CircuitPython](#set-up-the-feathers3-for-circuitpython)
 - [ ] [Use the FeatherS3 with CircuitPython](#use-the-feathers3-with-circuitpython)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
@@ -37,6 +37,9 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 - [Feather to Grove adapter](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Adapters/Feather_to_Grove_Adapter.md)
 - [Grove CO2 sensor](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_CO2_Temperature_Humidity_Sensor_SCD30.md)
 - [Grove cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md)
+
+### Set up the Mu editor for CircuitPython
+...
 
 ### Set up the FeatherS3 for CircuitPython
 > Note: Skip these steps, if your board already shows up as _CIRCUITPY_.
