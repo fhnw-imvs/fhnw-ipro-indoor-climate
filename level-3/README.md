@@ -22,8 +22,8 @@ To achieve the goals, use these blocks.
 - [ ] [Use the FeatherS3 with CircuitPython](#use-the-feathers3-with-circuitpython)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
-- [ ] ...
-- [ ] ...
+- [ ] [Connect to a local Wi-Fi network](#connect-to-a-local-wi-fi-network)
+- [ ] [Send a POST request to a Web server](#send-a-post-request-to-a-web-server)
 - [ ] ...
 - [ ] ...
 
@@ -98,6 +98,19 @@ On an embedded device, connected via USB.
 
 #### Result
 ASCII data is sent over USB serial.
+
+### Connect to a local Wi-Fi network
+### With CircuitPython
+...
+
+### Send a POST request to a Web server
+### With Curl
+```console
+$ curl -VX POST --data "" https://postb.in/...
+```
+
+### With CircuitPython
+...
 
 ## Side quests
 To learn more, consider these side quests.
