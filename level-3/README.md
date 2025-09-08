@@ -37,6 +37,38 @@ Borrow these items from the [FHNW IoT Hardware Library](https://github.com/fhnw-
 - [Grove CO2 sensor](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Hardware/Sensors/Grove_CO2_Temperature_Humidity_Sensor_SCD30.md)
 - [Grove cable](https://github.com/fhnw-imvs/fhnw-iot-library/blob/main/Parts/Cables/Grove_Cable_20cm.md)
 
+### Set up the FeatherS3 for CircuitPython
+#### FeatherS3 ROM bootloader mode (once)
+To get the FeatherS3 into ROM bootloader mode
+
+* Press and hold the _BOOT_ button
+* Then, press the _RESET_ button
+* Release the _BOOT_ button
+
+Now the board should show up as a USB device, e.g. _/dev/cu.usbmodem01_ on MacOS or _COM3_ on Windows.
+
+#### Install UF2 bootloader (once)
+To install the UF2 bootloader, follow the steps to _Install, Repair, or Update UF2 Bootloader_ at the bottom of https://circuitpython.org/board/unexpectedmaker_feathers3/ or try this:
+
+* Download [tinyuf2-unexpectedmaker_feathers3-0.35.0-combined.bin](https://adafruit-circuit-python.s3.amazonaws.com/bootloaders/esp32/unexpectedmaker_feathers3/tinyuf2-unexpectedmaker_feathers3-0.35.0-combined.bin).
+* Use https://adafruit.github.io/Adafruit_WebSerial_ESPTool/ with _115'200 Baud_ to _Connect_.
+* Once the device is connected, first _Erase_ its flash memory.
+* Then _Choose a file ..._ to select _...-combined.bin_ and click _Program_ to upload it.
+* Once the upload finished, press the _RESET_ button on the FeatherS3.
+
+Now the board should show up as a USB drive named _FTHRS2BOOT_.
+
+#### Install CircuitPython (once)
+To install CircuitPython or more precisely the CircuitPython interpreter, follow these steps:
+
+* Download the board specific _.UF2_ file from https://circuitpython.org/board/unexpectedmaker_feathers3/
+* Drop it on the USB drive named _FTHRS2BOOT_ and wait until the drive disconnects.
+
+Now the board should show up as a USB drive named _CIRCUITPY_.
+
+#### Troubleshooting
+* https://learn.adafruit.com/welcome-to-circuitpython/troubleshooting
+
 ### Use the FeatherS3 with CircuitPython
 Here's an [introduction to Microcontrollers](https://github.com/tamberg/circuitpython-workshop) with [CircuitPython](https://circuitpython.org).
 
