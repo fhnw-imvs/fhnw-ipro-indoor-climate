@@ -18,6 +18,7 @@ To achieve the goals, use these blocks.
 
 - [ ] [Get a FeatherS3 hardware kit](#get-a-feathers3-hardware-kit)
 - [ ] Set up the Mu editor, for CircuitPython
+- [ ] [Set up the FeatherS3 for CircuitPython](#set-up-the-feathers3-for-circuitpython)
 - [ ] [Use the FeatherS3 with CircuitPython](#use-the-feathers3-with-circuitpython)
 - [ ] [Read a value from an I2C sensor](#read-a-value-from-an-i2c-sensor)
 - [ ] [Write ASCII bytes to a serial port](#write-ascii-bytes-to-a-serial-port)
