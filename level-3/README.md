@@ -106,7 +106,7 @@ ASCII data is sent over USB serial.
 ### Send a POST request to a Web server
 ### With Curl
 ```console
-$ curl -VX POST --data "" https://postb.in/...
+$ curl -vX POST --data "" https://postb.in/...
 ```
 
 ### With CircuitPython
