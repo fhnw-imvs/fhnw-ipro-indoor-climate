@@ -4,7 +4,7 @@ To document your setup, update this sketch.
 <kbd><img src="sketch.png" height="240"/></kbd>
 
 ## Goals
-To finish the level, achieve these goals:
+To finish the level, achieve these goals.
 
 - [ ] Read a CO2 sensor, on the Microbit
 - [ ] Send data via USB, to your computer
