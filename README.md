@@ -31,7 +31,7 @@ Each level has side quests, things to try, directions to explore.
 You choose as you like, we provide Python and Java examples.
 
 ## "AI" tools
-No "AI" are needed, you're welcome to learn / think for yourself :)
+No "AI" is needed, you're welcome to learn / think for yourself :)
 
 If you use [prompts](prompts), save them, e.g. for code [based on](https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate/blob/main/level-1/Python/csv_write/csv_write.py#L2) a [prompt](https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate/blob/main/prompts/2025-08-29T09-45-00Z.txt).
 
