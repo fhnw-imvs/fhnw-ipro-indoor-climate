@@ -51,7 +51,8 @@ Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-int
 - Wait for the Microbit's LED to stop blinking
   
 ### Read a value from an I2C sensor
-On an embedded device, connected via USB.
+On an embedded device, connected via USB. This step connects your Microbit to a sensor so you can measure environmental conditions. 
+Without reading from the sensor, your prototype has no real-world data to work with in later stages (logging, analysing, visualising).
 
 #### With MakeCode (on Microbit)
 - Plug the Microbit into the Grove adapter.
@@ -60,7 +61,7 @@ On an embedded device, connected via USB.
 - Check for new blocks matching the sensor name, e.g. _SCD30_.
 
 ### Write ASCII bytes to a serial port
-On an embedded device, connected via USB.
+On an embedded device, connected via USB. We send sensor data over USB in a simple text format (ASCII) so that any program on your computer can read and process it easily.
 
 #### With MakeCode (on Microbit)
 Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial) blocks to write strings and numbers.
@@ -69,7 +70,8 @@ Use the _Advanced_ > [Serial](https://makecode.microbit.org/v0/reference/serial)
 ASCII data is sent over USB serial.
 
 ### Read ASCII bytes from a serial port
-On your computer, with a device connected via USB.
+On your computer, with a device connected via USB. This lets you “listen” to the data stream from your Microbit on your computer. 
+It’s the bridge between the hardware world (sensor values) and the software world (where we can store, process, and visualise them).
 
 #### With _screen_, in a terminal (on MacOS, Linux)
 ```console
@@ -174,6 +176,8 @@ Got an error? Check these tips.
     ```
 
 ### List available devices, serial ports
+If you can’t find the correct port, your program won’t receive data. Listing ports helps you correctly configure your reader program and avoid connection errors.
+
 #### With Terminal (on Linux, MacOS)
 ```console
 $ ls /dev/{tty,cu}.*
@@ -186,6 +190,9 @@ $ ls /dev/{tty,cu}.*
 ...
 
 ### Store data in CSV format into a file
+Sensor data sent from the Microbit should be saved as a CSV file so it can be analyzed later. A CSV file is a universal, lightweight format that you can open in spreadsheets or import into databases. 
+Storing your raw sensor data makes it possible to analyse trends over time and to use the data later without having the sensor connected.
+
 #### With Python
 See [csv_write.py](Python/csv_write/csv_write.py) for full source code.
 ```Python
@@ -238,6 +245,8 @@ $ cat data.csv
 ```
 
 ### Open a CSV file as a spreadsheet
+View the saved CSV data in a spreadsheet program such as Google Sheets. Viewing the data in a spreadsheet makes it easier to check if the logging worked correctly, and to do simple analysis or create quick charts without writing code.
+
 #### With GSheet
 - Open [GSheet](https://docs.google.com/spreadsheets)
 - _Start a spreadsheet_
@@ -245,6 +254,8 @@ $ cat data.csv
 - Select, e.g. _data.csv_ > _Upload_ > _Import data_
 
 ### Run a database as a local service
+A database allows you to store large amounts of sensor data efficiently and query it quickly. Running it locally lets you test queries before deploying to a remote server.
+Keep the database running in the background as a service so you can insert/query data anytime.
 
 #### With HSQLDB
 
@@ -277,6 +288,8 @@ $ cat data.csv
 A GUI opens, showing a connection to the service running on localhost.
 
 ### Store data into a database with SQL
+Import CSV data into a relational database to enable more complex queries. Inserting CSV data into a database makes it easier to perform complex filtering, grouping, and aggregation — things that are harder to do in spreadsheets.
+
 #### With any database client
 - Create a table.
     ```sql
@@ -311,6 +324,8 @@ A GUI opens, showing a connection to the service running on localhost.
 ...
 
 ### Read data from a database with SQL
+Retrieve, filter, and sort stored data. Retrieving and filtering data is how you turn raw sensor logs into useful information (such as average CO₂ over the last week).
+
 #### With any database client
 - Read data.
     ```sql
@@ -326,6 +341,8 @@ A GUI opens, showing a connection to the service running on localhost.
 ...
 
 ### Visualize data in a visual component
+A chart or live graph allows you (and eventual users) to quickly understand the trend and status without reading raw numbers. It’s often the final step before presenting your prototype.
+
 #### With Python
 Use Python program to show data (list of values) once:
 ```md
