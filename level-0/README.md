@@ -34,6 +34,8 @@ To achieve the goals, use these blocks.
 - [x] [Check done items off the list](#check-done-items-off-the-list)
 
 ### Set up Github and git for version control
+Version control tracks changes, enables collaboration, and restores previous states.
+
 - Sign up for a free [Github](https://github.com/) account
 - Install [git version control](https://git-scm.com/downloads)
 - Make sure _git_ works
@@ -42,6 +44,8 @@ To achieve the goals, use these blocks.
     ```
 
 ### Create a private copy of this repository
+A private copy lets you work independently, keep the template intact, and hide unfinished work.
+
 > Note: Do not _fork_ the respository
 - Visit https://github.com/fhnw-imvs/fhnw-ipro-indoor-climate
 - Click _Use this template_
@@ -78,6 +82,7 @@ Commit and push to store and backup your project.
     ```
 
 ### Use the terminal or cmd, to work with files
+Basic command-line skills speed development, enable script execution, and support automation.
 #### With cmd (on Win)
 ...
 
@@ -110,6 +115,7 @@ Commit and push to store and backup your project.
     ```
 
 ### Set up a Java or Python IDE, e.g. VS Code
+An IDE speeds up coding with highlighting, auto-completion, and debugging.
 #### With VS Code (any OS)
 - Install [Visual Studio Code](https://code.visualstudio.com/download)
 - Set up [VS Code for Java](https://code.visualstudio.com/docs/languages/java)
