@@ -21,7 +21,7 @@ To finish the level, achieve these goals.
 ## Building blocks
 To achieve the goals, use these blocks.
 
-- [ ] [Set up Github and git for version control](#set-up-github-and-git-for-version-control)
+- [x] [Set up Github and git for version control](#set-up-github-and-git-for-version-control)
 - [ ] [Create a private copy of this repository](#create-a-private-copy-of-this-repository)
 - [ ] [Commit and push to your copy of the repo](#commit-and-push-to-your-copy-of-the-repo)
 - [ ] [Use the terminal or cmd, to work with files](#use-the-terminal-or-cmd-to-work-with-files)
