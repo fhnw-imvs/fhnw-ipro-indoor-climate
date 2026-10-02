@@ -1,5 +1,5 @@
 # FHNW (ipro) Indoor Climate
-FHNW (ipro) is a mandatory individual software project, worth 6 ETCS.
+FHNW (ipro) is a mandatory individual software project, worth 3 ETCS.
 
 > Note: Work in progress. Interested? Contact thomas.amberg@fhnw.ch
 
